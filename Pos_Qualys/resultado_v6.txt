@@ -1,0 +1,488 @@
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  5.67it/s]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 289.97it/s]
+Acurácia do modelo 1nn para Adiac: 0.8209718670076727
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  6.13it/s]
+Testing Instances: 100%|##########| 391/391 [00:32<00:00, 12.19it/s]
+Acurácia do modelo 3nn para Adiac: 0.6828644501278772
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  6.19it/s]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 320.07it/s]
+Acurácia do modelo svm para Adiac: 0.8260869565217391
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  6.08it/s]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 252.84it/s]
+Acurácia do modelo nb para Adiac: 0.7468030690537084
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  6.24it/s]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 237.46it/s]
+Acurácia do modelo gbc para Adiac: 0.7365728900255755
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  6.23it/s]
+Testing Instances: 100%|##########| 391/391 [02:38<00:00,  2.46it/s]
+Acurácia do modelo ee para Adiac: 0.80306905370844
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  6.18it/s]
+Testing Instances: 100%|##########| 391/391 [00:29<00:00, 13.36it/s]
+Acurácia do modelo shape para Adiac: 0.8158567774936062
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  6.13it/s]
+Testing Instances: 100%|##########| 391/391 [00:04<00:00, 90.22it/s]
+Acurácia do modelo rf para Adiac: 0.7928388746803069
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 319.13it/s]
+Testing Instances: 100%|##########| 175/175 [00:00<00:00, 329.29it/s]
+Acurácia do modelo 1nn para ArrowHead: 0.84
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 339.14it/s]
+Testing Instances: 100%|##########| 175/175 [00:00<00:00, 319.63it/s]
+Acurácia do modelo 3nn para ArrowHead: 0.7485714285714286
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 175/175 [00:00<00:00, 337.67it/s]
+Acurácia do modelo svm para ArrowHead: 0.8285714285714286
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 311.47it/s]
+Testing Instances: 100%|##########| 175/175 [00:00<00:00, 274.70it/s]
+Acurácia do modelo nb para ArrowHead: 0.8228571428571428
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 715.00it/s]
+Testing Instances: 100%|##########| 175/175 [00:00<00:00, 290.54it/s]
+Acurácia do modelo gbc para ArrowHead: 0.8114285714285714
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 499.77it/s]
+Testing Instances: 100%|##########| 175/175 [00:00<00:00, 198.31it/s]
+Acurácia do modelo ee para ArrowHead: 0.8285714285714286
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 411.35it/s]
+Testing Instances: 100%|##########| 175/175 [00:00<00:00, 249.94it/s]
+Acurácia do modelo shape para ArrowHead: 0.8
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 240.55it/s]
+Testing Instances: 100%|##########| 175/175 [00:01<00:00, 89.57it/s]
+Acurácia do modelo rf para ArrowHead: 0.8
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 450.47it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 202.82it/s]
+Acurácia do modelo 1nn para Beef: 0.9
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 255.32it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 206.71it/s]
+Acurácia do modelo 3nn para Beef: 0.6
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 236.26it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 235.77it/s]
+Acurácia do modelo svm para Beef: 0.8666666666666667
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 268.11it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 227.73it/s]
+Acurácia do modelo nb para Beef: 0.7
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 245.82it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 195.52it/s]
+Acurácia do modelo gbc para Beef: 0.7666666666666667
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 187.65it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 136.38it/s]
+Acurácia do modelo ee para Beef: 0.8333333333333334
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 284.21it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 169.59it/s]
+Acurácia do modelo shape para Beef: 0.8666666666666667
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 221.54it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 80.44it/s]
+Acurácia do modelo rf para Beef: 0.8666666666666667
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 573.37it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 218.82it/s]
+Acurácia do modelo 1nn para BeetleFly: 0.85
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 5505.78it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 133.34it/s]
+Acurácia do modelo 3nn para BeetleFly: 0.85
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 211.01it/s]
+Acurácia do modelo svm para BeetleFly: 0.85
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 298.57it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 208.79it/s]
+Acurácia do modelo nb para BeetleFly: 0.85
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 240.70it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 209.91it/s]
+Acurácia do modelo gbc para BeetleFly: 0.8
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 425.53it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 148.08it/s]
+Acurácia do modelo ee para BeetleFly: 0.8
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 654.40it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 164.09it/s]
+Acurácia do modelo shape para BeetleFly: 0.9
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 1183.76it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 77.70it/s]
+Acurácia do modelo rf para BeetleFly: 0.8
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 294.34it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 193.17it/s]
+Acurácia do modelo 1nn para BirdChicken: 0.75
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 279.12it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 220.54it/s]
+Acurácia do modelo 3nn para BirdChicken: 0.75
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 775.52it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 221.42it/s]
+Acurácia do modelo svm para BirdChicken: 0.65
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 184.20it/s]
+Acurácia do modelo nb para BirdChicken: 0.65
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 2277.78it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 208.98it/s]
+Acurácia do modelo gbc para BirdChicken: 0.7
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 1307.45it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 165.97it/s]
+Acurácia do modelo ee para BirdChicken: 0.75
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 553.10it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 195.16it/s]
+Acurácia do modelo shape para BirdChicken: 0.75
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 1412.79it/s]
+Testing Instances: 100%|##########| 20/20 [00:00<00:00, 75.55it/s]
+Acurácia do modelo rf para BirdChicken: 0.7
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 644.15it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 488.66it/s]
+Acurácia do modelo 1nn para BME: 0.94
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 320.14it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 462.78it/s]
+Acurácia do modelo 3nn para BME: 0.98
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 622.15it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 411.13it/s]
+Acurácia do modelo svm para BME: 0.94
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 496.81it/s]
+Acurácia do modelo nb para BME: 0.96
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 493.67it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 434.95it/s]
+Acurácia do modelo gbc para BME: 0.9333333333333333
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 235.69it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 217.56it/s]
+Acurácia do modelo ee para BME: 0.9733333333333334
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 450.96it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 336.07it/s]
+Acurácia do modelo shape para BME: 0.9733333333333334
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 247.76it/s]
+Testing Instances: 100%|##########| 150/150 [00:01<00:00, 99.79it/s] 
+Acurácia do modelo rf para BME: 0.9333333333333333
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 86.40it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 190.83it/s]
+Acurácia do modelo 1nn para Car: 0.8666666666666667
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 94.27it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 182.59it/s]
+Acurácia do modelo 3nn para Car: 0.7333333333333333
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 63.36it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 188.51it/s]
+Acurácia do modelo svm para Car: 0.85
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 91.65it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 192.36it/s]
+Acurácia do modelo nb para Car: 0.7833333333333333
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 75.79it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 180.17it/s]
+Acurácia do modelo gbc para Car: 0.8666666666666667
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 91.21it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 117.70it/s]
+Acurácia do modelo ee para Car: 0.8666666666666667
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 94.32it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 122.64it/s]
+Acurácia do modelo shape para Car: 0.8333333333333334
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 93.44it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 76.36it/s]
+Acurácia do modelo rf para Car: 0.8666666666666667
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 585.19it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 471.80it/s]
+Acurácia do modelo 1nn para CBF: 0.8944444444444445
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 452.84it/s]
+Acurácia do modelo 3nn para CBF: 0.8522222222222222
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 2796.20it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 492.61it/s]
+Acurácia do modelo svm para CBF: 0.8888888888888888
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 453.43it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 486.19it/s]
+Acurácia do modelo nb para CBF: 0.8833333333333333
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 343.05it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 454.95it/s]
+Acurácia do modelo gbc para CBF: 0.9088888888888889
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 522.84it/s]
+Testing Instances: 100%|##########| 900/900 [00:03<00:00, 244.28it/s]
+Acurácia do modelo ee para CBF: 0.8677777777777778
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 1401.75it/s]
+Testing Instances: 100%|##########| 900/900 [00:02<00:00, 332.03it/s]
+Acurácia do modelo shape para CBF: 0.8677777777777778
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 392.78it/s]
+Testing Instances: 100%|##########| 900/900 [00:09<00:00, 97.68it/s] 
+Acurácia do modelo rf para CBF: 0.8811111111111111
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 1239.38it/s]
+Testing Instances: 100%|##########| 343/343 [00:00<00:00, 687.54it/s]
+Acurácia do modelo 1nn para Chinatown: 0.967930029154519
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 343/343 [00:00<00:00, 722.44it/s]
+Acurácia do modelo 3nn para Chinatown: 0.9650145772594753
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 2714.76it/s]
+Testing Instances: 100%|##########| 343/343 [00:00<00:00, 761.57it/s]
+Acurácia do modelo svm para Chinatown: 0.9650145772594753
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 902.47it/s]
+Testing Instances: 100%|##########| 343/343 [00:00<00:00, 807.89it/s]
+Acurácia do modelo nb para Chinatown: 0.967930029154519
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 618.76it/s]
+Testing Instances: 100%|##########| 343/343 [00:00<00:00, 712.24it/s]
+Acurácia do modelo gbc para Chinatown: 0.9708454810495627
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 7620.47it/s]
+Testing Instances: 100%|##########| 343/343 [00:01<00:00, 327.58it/s]
+Acurácia do modelo ee para Chinatown: 0.967930029154519
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 520.06it/s]
+Testing Instances: 100%|##########| 343/343 [00:00<00:00, 461.56it/s]
+Acurácia do modelo shape para Chinatown: 0.9591836734693877
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 1308.35it/s]
+Testing Instances: 100%|##########| 343/343 [00:03<00:00, 108.39it/s]
+Acurácia do modelo rf para Chinatown: 0.9708454810495627
+Training Base Models: 100%|##########| 5/5 [06:48<00:00, 81.68s/it] 
+Testing Instances: 100%|##########| 3840/3840 [00:11<00:00, 344.79it/s]
+Acurácia do modelo 1nn para ChlorineConcentration: 0.8958333333333334
+Training Base Models: 100%|##########| 5/5 [08:17<00:00, 99.45s/it] 
+Testing Instances: 100%|##########| 3840/3840 [00:14<00:00, 266.45it/s]
+Acurácia do modelo 3nn para ChlorineConcentration: 0.884375
+Training Base Models: 100%|##########| 5/5 [06:17<00:00, 75.45s/it] 
+Testing Instances: 100%|##########| 3840/3840 [00:09<00:00, 411.38it/s]
+Acurácia do modelo svm para ChlorineConcentration: 0.8916666666666667
+Training Base Models: 100%|##########| 5/5 [06:45<00:00, 81.08s/it] 
+Testing Instances: 100%|##########| 3840/3840 [00:09<00:00, 405.06it/s]
+Acurácia do modelo nb para ChlorineConcentration: 0.9013020833333333
+Training Base Models: 100%|##########| 5/5 [08:39<00:00, 103.91s/it]
+Testing Instances: 100%|##########| 3840/3840 [00:10<00:00, 374.84it/s]
+Acurácia do modelo gbc para ChlorineConcentration: 0.8880208333333334
+Training Base Models: 100%|##########| 5/5 [06:59<00:00, 83.83s/it] 
+Testing Instances: 100%|##########| 3840/3840 [00:47<00:00, 80.38it/s]
+Acurácia do modelo ee para ChlorineConcentration: 0.8989583333333333
+Training Base Models: 100%|##########| 5/5 [06:20<00:00, 76.10s/it] 
+Testing Instances: 100%|##########| 3840/3840 [00:36<00:00, 104.38it/s]
+Acurácia do modelo shape para ChlorineConcentration: 0.8950520833333333
+Training Base Models: 100%|##########| 5/5 [06:59<00:00, 83.93s/it] 
+Testing Instances: 100%|##########| 3840/3840 [00:40<00:00, 95.08it/s] 
+Acurácia do modelo rf para ChlorineConcentration: 0.8966145833333333
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 49.13it/s]
+Testing Instances: 100%|##########| 1380/1380 [00:17<00:00, 78.56it/s]
+Acurácia do modelo 1nn para CinCECGTorso: 0.7898550724637681
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 61.12it/s]
+Testing Instances: 100%|##########| 1380/1380 [00:17<00:00, 77.79it/s]
+Acurácia do modelo 3nn para CinCECGTorso: 0.4905797101449275
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 57.89it/s]
+Testing Instances: 100%|##########| 1380/1380 [00:17<00:00, 79.35it/s]
+Acurácia do modelo svm para CinCECGTorso: 0.7572463768115942
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 55.30it/s]
+Testing Instances: 100%|##########| 1380/1380 [00:17<00:00, 78.21it/s]
+Acurácia do modelo nb para CinCECGTorso: 0.7565217391304347
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 57.26it/s]
+Testing Instances: 100%|##########| 1380/1380 [00:18<00:00, 76.54it/s]
+Acurácia do modelo gbc para CinCECGTorso: 0.7159420289855073
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 37.50it/s]
+Testing Instances: 100%|##########| 1380/1380 [00:21<00:00, 63.41it/s]
+Acurácia do modelo ee para CinCECGTorso: 0.722463768115942
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 60.19it/s]
+Testing Instances: 100%|##########| 1380/1380 [00:19<00:00, 69.14it/s]
+Acurácia do modelo shape para CinCECGTorso: 0.7789855072463768
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 53.11it/s]
+Testing Instances: 100%|##########| 1380/1380 [00:28<00:00, 48.13it/s]
+Acurácia do modelo rf para CinCECGTorso: 0.6927536231884058
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 223.34it/s]
+Acurácia do modelo 1nn para Coffee: 1.0
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 295.70it/s]
+Acurácia do modelo 3nn para Coffee: 1.0
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 712.28it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 176.70it/s]
+Acurácia do modelo svm para Coffee: 1.0
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 344.63it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 352.36it/s]
+Acurácia do modelo nb para Coffee: 1.0
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 297.13it/s]
+Acurácia do modelo gbc para Coffee: 1.0
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 185.16it/s]
+Acurácia do modelo ee para Coffee: 1.0
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 288.14it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 172.72it/s]
+Acurácia do modelo shape para Coffee: 1.0
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 732.99it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 89.17it/s]
+Acurácia do modelo rf para Coffee: 1.0
+Training Base Models: 100%|##########| 5/5 [00:02<00:00,  1.93it/s]
+Testing Instances: 100%|##########| 250/250 [00:01<00:00, 145.45it/s]
+Acurácia do modelo 1nn para Computers: 0.588
+Training Base Models: 100%|##########| 5/5 [00:02<00:00,  1.81it/s]
+Testing Instances: 100%|##########| 250/250 [00:01<00:00, 141.24it/s]
+Acurácia do modelo 3nn para Computers: 0.596
+Training Base Models: 100%|##########| 5/5 [00:02<00:00,  2.13it/s]
+Testing Instances: 100%|##########| 250/250 [00:01<00:00, 146.11it/s]
+Acurácia do modelo svm para Computers: 0.592
+Training Base Models: 100%|##########| 5/5 [00:02<00:00,  2.22it/s]
+Testing Instances: 100%|##########| 250/250 [00:01<00:00, 145.54it/s]
+Acurácia do modelo nb para Computers: 0.524
+Training Base Models: 100%|##########| 5/5 [00:02<00:00,  2.16it/s]
+Testing Instances: 100%|##########| 250/250 [00:01<00:00, 149.57it/s]
+Acurácia do modelo gbc para Computers: 0.52
+Training Base Models: 100%|##########| 5/5 [00:02<00:00,  2.27it/s]
+Testing Instances: 100%|##########| 250/250 [00:02<00:00, 86.31it/s]
+Acurácia do modelo ee para Computers: 0.564
+Training Base Models: 100%|##########| 5/5 [00:02<00:00,  2.14it/s]
+Testing Instances: 100%|##########| 250/250 [00:02<00:00, 102.05it/s]
+Acurácia do modelo shape para Computers: 0.54
+Training Base Models: 100%|##########| 5/5 [00:02<00:00,  1.79it/s]
+Testing Instances: 100%|##########| 250/250 [00:03<00:00, 69.03it/s]
+Acurácia do modelo rf para Computers: 0.516
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.55s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 236.27it/s]
+Acurácia do modelo 1nn para CricketX: 0.6512820512820513
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.50s/it]
+Testing Instances: 100%|##########| 390/390 [00:05<00:00, 76.47it/s]
+Acurácia do modelo 3nn para CricketX: 0.4282051282051282
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.44s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 265.72it/s]
+Acurácia do modelo svm para CricketX: 0.6153846153846154
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.46s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 254.75it/s]
+Acurácia do modelo nb para CricketX: 0.5743589743589743
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.52s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 232.26it/s]
+Acurácia do modelo gbc para CricketX: 0.5128205128205128
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.50s/it]
+Testing Instances: 100%|##########| 390/390 [00:19<00:00, 19.85it/s]
+Acurácia do modelo ee para CricketX: 0.5769230769230769
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.50s/it]
+Testing Instances: 100%|##########| 390/390 [00:11<00:00, 34.46it/s]
+Acurácia do modelo shape para CricketX: 0.6282051282051282
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.49s/it]
+Testing Instances: 100%|##########| 390/390 [00:04<00:00, 84.78it/s]
+Acurácia do modelo rf para CricketX: 0.5333333333333333
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.01it/s]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 238.72it/s]
+Acurácia do modelo 1nn para CricketY: 0.6205128205128205
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.00it/s]
+Testing Instances: 100%|##########| 390/390 [00:05<00:00, 77.51it/s]
+Acurácia do modelo 3nn para CricketY: 0.45384615384615384
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.09s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 267.65it/s]
+Acurácia do modelo svm para CricketY: 0.5820512820512821
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.02s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 247.29it/s]
+Acurácia do modelo nb para CricketY: 0.5897435897435898
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.01s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 238.92it/s]
+Acurácia do modelo gbc para CricketY: 0.47692307692307695
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.04it/s]
+Testing Instances: 100%|##########| 390/390 [00:20<00:00, 18.77it/s]
+Acurácia do modelo ee para CricketY: 0.5897435897435898
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.02it/s]
+Testing Instances: 100%|##########| 390/390 [00:11<00:00, 34.45it/s]
+Acurácia do modelo shape para CricketY: 0.6102564102564103
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.04s/it]
+Testing Instances: 100%|##########| 390/390 [00:04<00:00, 84.49it/s]
+Acurácia do modelo rf para CricketY: 0.5435897435897435
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.46s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 240.70it/s]
+Acurácia do modelo 1nn para CricketZ: 0.6102564102564103
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.58s/it]
+Testing Instances: 100%|##########| 390/390 [00:05<00:00, 76.76it/s]
+Acurácia do modelo 3nn para CricketZ: 0.4128205128205128
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.41s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 268.55it/s]
+Acurácia do modelo svm para CricketZ: 0.5820512820512821
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.44s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 248.93it/s]
+Acurácia do modelo nb para CricketZ: 0.5743589743589743
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.45s/it]
+Testing Instances: 100%|##########| 390/390 [00:01<00:00, 232.75it/s]
+Acurácia do modelo gbc para CricketZ: 0.4794871794871795
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.45s/it]
+Testing Instances: 100%|##########| 390/390 [00:20<00:00, 19.48it/s]
+Acurácia do modelo ee para CricketZ: 0.558974358974359
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.39s/it]
+Testing Instances: 100%|##########| 390/390 [00:11<00:00, 34.89it/s]
+Acurácia do modelo shape para CricketZ: 0.6051282051282051
+Training Base Models: 100%|##########| 5/5 [00:07<00:00,  1.51s/it]
+Testing Instances: 100%|##########| 390/390 [00:04<00:00, 84.17it/s]
+Acurácia do modelo rf para CricketZ: 0.5
+Training Base Models: 100%|##########| 5/5 [45:45<00:00, 549.06s/it]   
+Testing Instances: 100%|##########| 16800/16800 [02:36<00:00, 107.20it/s]
+Acurácia do modelo 1nn para Crop: 0.7204166666666667
+Training Base Models: 100%|##########| 5/5 [44:48<00:00, 537.72s/it]   
+Testing Instances: 100%|##########| 16800/16800 [2:51:19<00:00,  1.63it/s]  
+Acurácia do modelo 3nn para Crop: 0.5763690476190476
+Training Base Models: 100%|##########| 5/5 [45:44<00:00, 548.89s/it]   
+Testing Instances: 100%|##########| 16800/16800 [01:05<00:00, 257.95it/s]
+Acurácia do modelo svm para Crop: 0.7282738095238095
+Training Base Models: 100%|##########| 5/5 [1:44:36<00:00, 1255.21s/it]  
+Testing Instances: 100%|##########| 16800/16800 [01:05<00:00, 255.34it/s]
+Acurácia do modelo nb para Crop: 0.6625595238095238
+Training Base Models: 100%|##########| 5/5 [45:40<00:00, 548.10s/it]   
+Testing Instances: 100%|##########| 16800/16800 [01:11<00:00, 235.36it/s]
+Acurácia do modelo gbc para Crop: 0.7345238095238096
+Training Base Models: 100%|##########| 5/5 [45:26<00:00, 545.23s/it]   
+Testing Instances: 100%|##########| 16800/16800 [13:32:19<00:00,  2.90s/it]  
+Acurácia do modelo ee para Crop: 0.7242857142857143
+Training Base Models: 100%|##########| 5/5 [45:56<00:00, 551.32s/it]   
+Testing Instances: 100%|##########| 16800/16800 [3:57:13<00:00,  1.18it/s]  
+Acurácia do modelo shape para Crop: 0.7195833333333334
+Training Base Models: 100%|##########| 5/5 [45:20<00:00, 544.06s/it]   
+Testing Instances: 100%|##########| 16800/16800 [03:13<00:00, 86.94it/s]
+Acurácia do modelo rf para Crop: 0.7519047619047619
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 306/306 [00:01<00:00, 258.71it/s]
+Acurácia do modelo 1nn para DiatomSizeReduction: 0.9379084967320261
+Training Base Models: 100%|##########| 5/5 [00:00<?, ?it/s]
+Testing Instances: 100%|##########| 306/306 [00:01<00:00, 272.63it/s]
+Acurácia do modelo 3nn para DiatomSizeReduction: 0.673202614379085
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 273.28it/s]
+Testing Instances: 100%|##########| 306/306 [00:01<00:00, 278.15it/s]
+Acurácia do modelo svm para DiatomSizeReduction: 0.954248366013072
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 829.87it/s]
+Testing Instances: 100%|##########| 306/306 [00:01<00:00, 259.58it/s]
+Acurácia do modelo nb para DiatomSizeReduction: 0.8627450980392157
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 622.97it/s]
+Testing Instances: 100%|##########| 306/306 [00:01<00:00, 265.72it/s]
+Acurácia do modelo gbc para DiatomSizeReduction: 0.9477124183006536
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 440.71it/s]
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+Cell In[18], line 42
+     39 # Para cada algoritmo
+     40 for algo in algos:
+     41     # Treinar o modelo e fazer previsões
+---> 42     trained_base_models, meta_classifier = train_with_meta_classifier(X_train_flat, y_train, base_option='svm', meta_option=algo)
+     43     predictions_test_meta = predict_with_meta_classifier(X_test_flat, trained_base_models, meta_classifier)
+     45     # Calcular a acurácia e armazená-la
+
+Cell In[7], line 26
+     24 # Treinar o meta-classificador
+     25 meta_classifier = select_model(meta_option, random_state)
+---> 26 meta_classifier.fit(meta_features, y_train)
+     28 return trained_models, meta_classifier
+
+File d:\Programas\Anaconda\envs\AM_MSC_Kedro\Lib\site-packages\aeon\classification\base.py:156, in BaseClassifier.fit(self, X, y)
+    154     self._is_fitted = True
+    155     return self
+--> 156 self._fit(X, y)
+    157 self.fit_time_ = int(round(time.time() * 1000)) - start
+    158 # this should happen last
+
+File d:\Programas\Anaconda\envs\AM_MSC_Kedro\Lib\site-packages\aeon\classification\distance_based\_elastic_ensemble.py:198, in ElasticEnsemble._fit(self, X, y)
+    190     print(  # noqa: T201
+...
+   2087         "The train_size = %d should be greater or "
+   2088         "equal to the number of classes = %d" % (n_train, n_classes)
+   2089     )
+
+ValueError: The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+Cell In[19], line 2
+      1 # Criar um DataFrame com os resultados
+----> 2 results_df = pd.DataFrame({'classifier': clf, 'Dataset': dataset_names, 'Accuracy': accuracies})
+      4 # Salvar os resultados em um arquivo CSV
+      5 results_df.to_csv('model_accuracies.csv', index=False)
+
+File d:\Programas\Anaconda\envs\AM_MSC_Kedro\Lib\site-packages\pandas\core\frame.py:664, in DataFrame.__init__(self, data, index, columns, dtype, copy)
+    658     mgr = self._init_mgr(
+    659         data, axes={"index": index, "columns": columns}, dtype=dtype, copy=copy
+    660     )
+    662 elif isinstance(data, dict):
+    663     # GH#38939 de facto copy defaults to False only in non-dict cases
+--> 664     mgr = dict_to_mgr(data, index, columns, dtype=dtype, copy=copy, typ=manager)
+    665 elif isinstance(data, ma.MaskedArray):
+    666     import numpy.ma.mrecords as mrecords
+
+File d:\Programas\Anaconda\envs\AM_MSC_Kedro\Lib\site-packages\pandas\core\internals\construction.py:493, in dict_to_mgr(data, index, columns, dtype, typ, copy)
+    489     else:
+    490         # dtype check to exclude e.g. range objects, scalars
+    491         arrays = [x.copy() if hasattr(x, "dtype") else x for x in arrays]
+--> 493 return arrays_to_mgr(arrays, columns, index, dtype=dtype, typ=typ, consolidate=copy)
+
+File d:\Programas\Anaconda\envs\AM_MSC_Kedro\Lib\site-packages\pandas\core\internals\construction.py:118, in arrays_to_mgr(arrays, columns, index, dtype, verify_integrity, typ, consolidate)
+...
+    669     raise ValueError(
+    670         "Mixing dicts with non-Series may lead to ambiguous ordering."
+    671     )
+
+ValueError: All arrays must be of the same length
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...

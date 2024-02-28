@@ -1,0 +1,608 @@
+Training Base Models: 100%|##########| 5/5 [05:26<00:00, 65.21s/it]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 342.83it/s]
+Acurácia do modelo 1nn para Adiac: 0.8414322250639387
+Time runtime (seconds):  0:05:27.918629
+Training Base Models: 100%|##########| 5/5 [05:25<00:00, 65.08s/it]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 357.71it/s]
+Acurácia do modelo 3nn para Adiac: 0.8363171355498721
+Time runtime (seconds):  0:10:55.162163
+Training Base Models: 100%|##########| 5/5 [05:25<00:00, 65.17s/it]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 349.28it/s]
+Acurácia do modelo svm para Adiac: 0.8414322250639387
+Time runtime (seconds):  0:16:22.874833
+Training Base Models: 100%|##########| 5/5 [05:25<00:00, 65.20s/it]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 356.83it/s]
+Acurácia do modelo nb para Adiac: 0.8414322250639387
+Time runtime (seconds):  0:21:50.689397
+Training Base Models: 100%|##########| 5/5 [05:26<00:00, 65.35s/it]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 347.68it/s]
+Acurácia do modelo gbc para Adiac: 0.8337595907928389
+Time runtime (seconds):  0:27:19.320634
+Training Base Models: 100%|##########| 5/5 [05:26<00:00, 65.28s/it]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 342.54it/s]
+Acurácia do modelo ee para Adiac: 0.8363171355498721
+Time runtime (seconds):  0:32:47.603659
+Training Base Models: 100%|##########| 5/5 [05:22<00:00, 64.49s/it]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 350.07it/s]
+Acurácia do modelo shape para Adiac: 0.8286445012787724
+Time runtime (seconds):  0:38:11.869049
+Training Base Models: 100%|##########| 5/5 [05:20<00:00, 64.14s/it]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 360.50it/s]
+Acurácia do modelo rf para Adiac: 0.8363171355498721
+Time runtime (seconds):  0:43:34.387397
+Training Base Models: 100%|##########| 5/5 [05:20<00:00, 64.12s/it]
+Testing Instances: 100%|##########| 391/391 [00:01<00:00, 361.07it/s]
+Acurácia do modelo rd para Adiac: 0.8312020460358056
+Time runtime (seconds):  0:48:56.805579
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  8.60it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 272.33it/s]
+Acurácia do modelo 1nn para Beef: 0.9
+Time runtime (seconds):  0:48:57.551271
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  8.59it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 273.30it/s]
+Acurácia do modelo 3nn para Beef: 0.9
+Time runtime (seconds):  0:48:58.290544
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  8.22it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 273.31it/s]
+Acurácia do modelo svm para Beef: 0.8333333333333334
+Time runtime (seconds):  0:48:59.064566
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  8.58it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 238.44it/s]
+Acurácia do modelo nb para Beef: 0.9
+Time runtime (seconds):  0:48:59.807120
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  8.82it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 236.37it/s]
+Acurácia do modelo gbc para Beef: 0.8333333333333334
+Time runtime (seconds):  0:49:00.545706
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  8.64it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 239.01it/s]
+Acurácia do modelo ee para Beef: 0.8666666666666667
+Time runtime (seconds):  0:49:01.282239
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  8.84it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 268.41it/s]
+Acurácia do modelo shape para Beef: 0.8666666666666667
+Time runtime (seconds):  0:49:02.016871
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  8.51it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 278.55it/s]
+Acurácia do modelo rf para Beef: 0.8666666666666667
+Time runtime (seconds):  0:49:02.751554
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  8.37it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 237.78it/s]
+Acurácia do modelo rd para Beef: 0.8666666666666667
+Time runtime (seconds):  0:49:03.514592
+Training Base Models: 100%|##########| 5/5 [00:03<00:00,  1.61it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 212.30it/s]
+Acurácia do modelo 1nn para Car: 0.8333333333333334
+Time runtime (seconds):  0:49:06.976771
+Training Base Models: 100%|##########| 5/5 [00:03<00:00,  1.61it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 224.96it/s]
+Acurácia do modelo 3nn para Car: 0.7666666666666667
+Time runtime (seconds):  0:49:10.429643
+Training Base Models: 100%|##########| 5/5 [00:03<00:00,  1.61it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 211.81it/s]
+Acurácia do modelo svm para Car: 0.8166666666666667
+Time runtime (seconds):  0:49:13.894133
+Training Base Models: 100%|##########| 5/5 [00:03<00:00,  1.61it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 212.17it/s]
+Acurácia do modelo nb para Car: 0.85
+Time runtime (seconds):  0:49:17.344967
+Training Base Models: 100%|##########| 5/5 [00:03<00:00,  1.60it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 224.90it/s]
+Acurácia do modelo gbc para Car: 0.8166666666666667
+Time runtime (seconds):  0:49:20.813044
+Training Base Models: 100%|##########| 5/5 [00:03<00:00,  1.60it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 224.80it/s]
+Acurácia do modelo ee para Car: 0.85
+Time runtime (seconds):  0:49:24.279983
+Training Base Models: 100%|##########| 5/5 [00:03<00:00,  1.61it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 213.84it/s]
+Acurácia do modelo shape para Car: 0.8666666666666667
+Time runtime (seconds):  0:49:27.741373
+Training Base Models: 100%|##########| 5/5 [00:03<00:00,  1.57it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 212.13it/s]
+Acurácia do modelo rf para Car: 0.85
+Time runtime (seconds):  0:49:31.275872
+Training Base Models: 100%|##########| 5/5 [00:03<00:00,  1.62it/s]
+Testing Instances: 100%|##########| 60/60 [00:00<00:00, 205.97it/s]
+Acurácia do modelo rd para Car: 0.85
+Time runtime (seconds):  0:49:34.738159
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.71it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 522.49it/s]
+Acurácia do modelo 1nn para CBF: 0.8611111111111112
+Time runtime (seconds):  0:49:36.784312
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.99it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 540.22it/s]
+Acurácia do modelo 3nn para CBF: 0.8877777777777778
+Time runtime (seconds):  0:49:38.785761
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 16.80it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 540.73it/s]
+Acurácia do modelo svm para CBF: 0.8722222222222222
+Time runtime (seconds):  0:49:40.784842
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.58it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 525.64it/s]
+Acurácia do modelo nb para CBF: 0.88
+Time runtime (seconds):  0:49:42.840808
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.31it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 539.93it/s]
+Acurácia do modelo gbc para CBF: 0.8755555555555555
+Time runtime (seconds):  0:49:44.845771
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.68it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 535.51it/s]
+Acurácia do modelo ee para CBF: 0.8844444444444445
+Time runtime (seconds):  0:49:46.864155
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.68it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 523.27it/s]
+Acurácia do modelo shape para CBF: 0.8755555555555555
+Time runtime (seconds):  0:49:48.904334
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.66it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 535.32it/s]
+Acurácia do modelo rf para CBF: 0.8866666666666667
+Time runtime (seconds):  0:49:50.914163
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.68it/s]
+Testing Instances: 100%|##########| 900/900 [00:01<00:00, 537.40it/s]
+Acurácia do modelo rd para CBF: 0.87
+Time runtime (seconds):  0:49:52.911151
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 24.42it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 356.62it/s]
+Acurácia do modelo 1nn para Coffee: 1.0
+Time runtime (seconds):  0:49:53.242014
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 24.50it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 356.22it/s]
+Acurácia do modelo 3nn para Coffee: 1.0
+Time runtime (seconds):  0:49:53.568339
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 18.33it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 368.24it/s]
+Acurácia do modelo svm para Coffee: 1.0
+Time runtime (seconds):  0:49:53.952272
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 22.70it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 356.61it/s]
+Acurácia do modelo nb para Coffee: 1.0
+Time runtime (seconds):  0:49:54.284284
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 22.79it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 297.77it/s]
+Acurácia do modelo gbc para Coffee: 1.0
+Time runtime (seconds):  0:49:54.621260
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 24.47it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 375.78it/s]
+Acurácia do modelo ee para Coffee: 1.0
+Time runtime (seconds):  0:49:54.952913
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 22.75it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 356.64it/s]
+Acurácia do modelo shape para Coffee: 1.0
+Time runtime (seconds):  0:49:55.287033
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 22.72it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 354.00it/s]
+Acurácia do modelo rf para Coffee: 1.0
+Time runtime (seconds):  0:49:55.612781
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 24.43it/s]
+Testing Instances: 100%|##########| 28/28 [00:00<00:00, 323.94it/s]
+Acurácia do modelo rd para Coffee: 1.0
+Time runtime (seconds):  0:49:55.946029
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 42.45it/s]
+Testing Instances: 100%|##########| 306/306 [00:00<00:00, 310.46it/s]
+Acurácia do modelo 1nn para DiatomSizeReduction: 0.8333333333333334
+Time runtime (seconds):  0:49:57.103112
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 39.91it/s]
+Testing Instances: 100%|##########| 306/306 [00:00<00:00, 314.30it/s]
+Acurácia do modelo 3nn para DiatomSizeReduction: 0.8431372549019608
+Time runtime (seconds):  0:49:58.227925
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 45.22it/s]
+Testing Instances: 100%|##########| 306/306 [00:00<00:00, 314.12it/s]
+Acurácia do modelo svm para DiatomSizeReduction: 0.8333333333333334
+Time runtime (seconds):  0:49:59.341079
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 45.51it/s]
+Testing Instances: 100%|##########| 306/306 [00:00<00:00, 319.33it/s]
+Acurácia do modelo nb para DiatomSizeReduction: 0.8333333333333334
+Time runtime (seconds):  0:50:00.446902
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 45.34it/s]
+Testing Instances: 100%|##########| 306/306 [00:00<00:00, 309.07it/s]
+Acurácia do modelo gbc para DiatomSizeReduction: 0.8333333333333334
+Time runtime (seconds):  0:50:01.583581
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 38.26it/s]
+Testing Instances: 100%|##########| 306/306 [00:00<00:00, 314.71it/s]
+Acurácia do modelo ee para DiatomSizeReduction: 0.8333333333333334
+Time runtime (seconds):  0:50:02.704900
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 46.43it/s]
+Testing Instances: 100%|##########| 306/306 [00:00<00:00, 312.81it/s]
+Acurácia do modelo shape para DiatomSizeReduction: 0.8366013071895425
+Time runtime (seconds):  0:50:03.819030
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 45.55it/s]
+Testing Instances: 100%|##########| 306/306 [00:00<00:00, 314.70it/s]
+Acurácia do modelo rf para DiatomSizeReduction: 0.8333333333333334
+Time runtime (seconds):  0:50:04.934706
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 45.39it/s]
+Testing Instances: 100%|##########| 306/306 [00:00<00:00, 313.67it/s]
+Acurácia do modelo rd para DiatomSizeReduction: 0.8333333333333334
+Time runtime (seconds):  0:50:06.046990
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.23s/it]
+Testing Instances: 100%|##########| 100/100 [00:00<00:00, 596.85it/s]
+Acurácia do modelo 1nn para ECG200: 0.81
+Time runtime (seconds):  0:50:12.457231
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.26s/it]
+Testing Instances: 100%|##########| 100/100 [00:00<00:00, 636.79it/s]
+Acurácia do modelo 3nn para ECG200: 0.87
+Time runtime (seconds):  0:50:18.997540
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.25s/it]
+Testing Instances: 100%|##########| 100/100 [00:00<00:00, 577.12it/s]
+Acurácia do modelo svm para ECG200: 0.83
+Time runtime (seconds):  0:50:25.569796
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.22s/it]
+Testing Instances: 100%|##########| 100/100 [00:00<00:00, 580.12it/s]
+Acurácia do modelo nb para ECG200: 0.86
+Time runtime (seconds):  0:50:31.933141
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.26s/it]
+Testing Instances: 100%|##########| 100/100 [00:00<00:00, 579.17it/s]
+Acurácia do modelo gbc para ECG200: 0.87
+Time runtime (seconds):  0:50:38.481909
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.29s/it]
+Testing Instances: 100%|##########| 100/100 [00:00<00:00, 588.22it/s]
+Acurácia do modelo ee para ECG200: 0.8
+Time runtime (seconds):  0:50:45.223484
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.22s/it]
+Testing Instances: 100%|##########| 100/100 [00:00<00:00, 584.47it/s]
+Acurácia do modelo shape para ECG200: 0.84
+Time runtime (seconds):  0:50:51.565127
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.21s/it]
+Testing Instances: 100%|##########| 100/100 [00:00<00:00, 590.66it/s]
+Acurácia do modelo rf para ECG200: 0.83
+Time runtime (seconds):  0:50:57.875164
+Training Base Models: 100%|##########| 5/5 [00:06<00:00,  1.25s/it]
+Testing Instances: 100%|##########| 100/100 [00:00<00:00, 583.13it/s]
+Acurácia do modelo rd para ECG200: 0.85
+Time runtime (seconds):  0:51:04.403966
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 31.74it/s]
+Testing Instances: 100%|##########| 861/861 [00:01<00:00, 528.47it/s]
+Acurácia do modelo 1nn para ECGFiveDays: 1.0
+Time runtime (seconds):  0:51:06.232437
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 29.19it/s]
+Testing Instances: 100%|##########| 861/861 [00:01<00:00, 528.45it/s]
+Acurácia do modelo 3nn para ECGFiveDays: 1.0
+Time runtime (seconds):  0:51:08.066309
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 30.67it/s]
+Testing Instances: 100%|##########| 861/861 [00:01<00:00, 522.12it/s]
+Acurácia do modelo svm para ECGFiveDays: 1.0
+Time runtime (seconds):  0:51:09.916631
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 24.52it/s]
+Testing Instances: 100%|##########| 861/861 [00:01<00:00, 521.82it/s]
+Acurácia do modelo nb para ECGFiveDays: 1.0
+Time runtime (seconds):  0:51:11.808818
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 31.76it/s]
+Testing Instances: 100%|##########| 861/861 [00:01<00:00, 532.36it/s]
+Acurácia do modelo gbc para ECGFiveDays: 1.0
+Time runtime (seconds):  0:51:13.632220
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 30.83it/s]
+Testing Instances: 100%|##########| 861/861 [00:01<00:00, 521.99it/s]
+Acurácia do modelo ee para ECGFiveDays: 1.0
+Time runtime (seconds):  0:51:15.479293
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 31.14it/s]
+Testing Instances: 100%|##########| 861/861 [00:01<00:00, 509.70it/s]
+Acurácia do modelo shape para ECGFiveDays: 1.0
+Time runtime (seconds):  0:51:17.353567
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 31.84it/s]
+Testing Instances: 100%|##########| 861/861 [00:01<00:00, 520.71it/s]
+Acurácia do modelo rf para ECGFiveDays: 1.0
+Time runtime (seconds):  0:51:19.201947
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 33.76it/s]
+Testing Instances: 100%|##########| 861/861 [00:01<00:00, 526.77it/s]
+Acurácia do modelo rd para ECGFiveDays: 1.0
+Time runtime (seconds):  0:51:21.037403
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 16.76it/s]
+Testing Instances: 100%|##########| 88/88 [00:00<00:00, 328.39it/s]
+Acurácia do modelo 1nn para FaceFour: 0.8181818181818182
+Time runtime (seconds):  0:51:21.650758
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 15.94it/s]
+Testing Instances: 100%|##########| 88/88 [00:00<00:00, 311.15it/s]
+Acurácia do modelo 3nn para FaceFour: 0.8181818181818182
+Time runtime (seconds):  0:51:22.295274
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 16.74it/s]
+Testing Instances: 100%|##########| 88/88 [00:00<00:00, 300.52it/s]
+Acurácia do modelo svm para FaceFour: 0.7954545454545454
+Time runtime (seconds):  0:51:22.913223
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.11it/s]
+Testing Instances: 100%|##########| 88/88 [00:00<00:00, 313.77it/s]
+Acurácia do modelo nb para FaceFour: 0.8636363636363636
+Time runtime (seconds):  0:51:23.528219
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 16.77it/s]
+Testing Instances: 100%|##########| 88/88 [00:00<00:00, 311.61it/s]
+Acurácia do modelo gbc para FaceFour: 0.8068181818181818
+Time runtime (seconds):  0:51:24.133822
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.65it/s]
+Testing Instances: 100%|##########| 88/88 [00:00<00:00, 329.71it/s]
+Acurácia do modelo ee para FaceFour: 0.8409090909090909
+Time runtime (seconds):  0:51:24.735469
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 17.68it/s]
+Testing Instances: 100%|##########| 88/88 [00:00<00:00, 329.35it/s]
+Acurácia do modelo shape para FaceFour: 0.8636363636363636
+Time runtime (seconds):  0:51:25.338502
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 14.56it/s]
+Testing Instances: 100%|##########| 88/88 [00:00<00:00, 294.86it/s]
+Acurácia do modelo rf para FaceFour: 0.8181818181818182
+Time runtime (seconds):  0:51:25.998453
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 16.75it/s]
+Testing Instances: 100%|##########| 88/88 [00:00<00:00, 320.02it/s]
+Acurácia do modelo rd para FaceFour: 0.7954545454545454
+Time runtime (seconds):  0:51:26.600500
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  7.76it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 519.33it/s]
+Acurácia do modelo 1nn para GunPoint: 0.9
+Time runtime (seconds):  0:51:27.599757
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  7.59it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 501.89it/s]
+Acurácia do modelo 3nn para GunPoint: 0.92
+Time runtime (seconds):  0:51:28.614558
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  7.58it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 501.09it/s]
+Acurácia do modelo svm para GunPoint: 0.92
+Time runtime (seconds):  0:51:29.616412
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  7.09it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 507.05it/s]
+Acurácia do modelo nb para GunPoint: 0.9066666666666666
+Time runtime (seconds):  0:51:30.671729
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  7.57it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 501.94it/s]
+Acurácia do modelo gbc para GunPoint: 0.9
+Time runtime (seconds):  0:51:31.679301
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  7.73it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 502.60it/s]
+Acurácia do modelo ee para GunPoint: 0.9133333333333333
+Time runtime (seconds):  0:51:32.691254
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  7.55it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 504.97it/s]
+Acurácia do modelo shape para GunPoint: 0.9
+Time runtime (seconds):  0:51:33.696391
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  7.78it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 531.95it/s]
+Acurácia do modelo rf para GunPoint: 0.9133333333333333
+Time runtime (seconds):  0:51:34.697573
+Training Base Models: 100%|##########| 5/5 [00:00<00:00,  7.23it/s]
+Testing Instances: 100%|##########| 150/150 [00:00<00:00, 529.66it/s]
+Acurácia do modelo rd para GunPoint: 0.9133333333333333
+Time runtime (seconds):  0:51:35.735999
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.09s/it]
+Testing Instances: 100%|##########| 61/61 [00:00<00:00, 215.12it/s]
+Acurácia do modelo 1nn para Lightning2: 0.6885245901639344
+Time runtime (seconds):  0:51:41.529902
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.04s/it]
+Testing Instances: 100%|##########| 61/61 [00:00<00:00, 194.86it/s]
+Acurácia do modelo 3nn para Lightning2: 0.7213114754098361
+Time runtime (seconds):  0:51:47.122198
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.03s/it]
+Testing Instances: 100%|##########| 61/61 [00:00<00:00, 204.64it/s]
+Acurácia do modelo svm para Lightning2: 0.6721311475409836
+Time runtime (seconds):  0:51:52.621205
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.06s/it]
+Testing Instances: 100%|##########| 61/61 [00:00<00:00, 215.57it/s]
+Acurácia do modelo nb para Lightning2: 0.7540983606557377
+Time runtime (seconds):  0:51:58.304716
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.05s/it]
+Testing Instances: 100%|##########| 61/61 [00:00<00:00, 215.64it/s]
+Acurácia do modelo gbc para Lightning2: 0.7049180327868853
+Time runtime (seconds):  0:52:03.914621
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.04s/it]
+Testing Instances: 100%|##########| 61/61 [00:00<00:00, 204.00it/s]
+Acurácia do modelo ee para Lightning2: 0.7049180327868853
+Time runtime (seconds):  0:52:09.512332
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.06s/it]
+Testing Instances: 100%|##########| 61/61 [00:00<00:00, 204.40it/s]
+Acurácia do modelo shape para Lightning2: 0.7049180327868853
+Time runtime (seconds):  0:52:15.157516
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.07s/it]
+Testing Instances: 100%|##########| 61/61 [00:00<00:00, 204.22it/s]
+Acurácia do modelo rf para Lightning2: 0.7213114754098361
+Time runtime (seconds):  0:52:20.849330
+Training Base Models: 100%|##########| 5/5 [00:05<00:00,  1.06s/it]
+Testing Instances: 100%|##########| 61/61 [00:00<00:00, 204.45it/s]
+Acurácia do modelo rd para Lightning2: 0.7049180327868853
+Time runtime (seconds):  0:52:26.495630
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.16it/s]
+Testing Instances: 100%|##########| 73/73 [00:00<00:00, 331.93it/s]
+Acurácia do modelo 1nn para Lightning7: 0.6438356164383562
+Time runtime (seconds):  0:52:31.125166
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.16it/s]
+Testing Instances: 100%|##########| 73/73 [00:00<00:00, 332.69it/s]
+Acurácia do modelo 3nn para Lightning7: 0.6301369863013698
+Time runtime (seconds):  0:52:35.743218
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.16it/s]
+Testing Instances: 100%|##########| 73/73 [00:00<00:00, 321.95it/s]
+Acurácia do modelo svm para Lightning7: 0.7123287671232876
+Time runtime (seconds):  0:52:40.349995
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.17it/s]
+Testing Instances: 100%|##########| 73/73 [00:00<00:00, 331.35it/s]
+Acurácia do modelo nb para Lightning7: 0.6575342465753424
+Time runtime (seconds):  0:52:44.933245
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.16it/s]
+Testing Instances: 100%|##########| 73/73 [00:00<00:00, 331.16it/s]
+Acurácia do modelo gbc para Lightning7: 0.6712328767123288
+Time runtime (seconds):  0:52:49.549831
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.16it/s]
+Testing Instances: 100%|##########| 73/73 [00:00<00:00, 309.79it/s]
+Acurácia do modelo ee para Lightning7: 0.6575342465753424
+Time runtime (seconds):  0:52:54.181661
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.16it/s]
+Testing Instances: 100%|##########| 73/73 [00:00<00:00, 310.41it/s]
+Acurácia do modelo shape para Lightning7: 0.726027397260274
+Time runtime (seconds):  0:52:58.792005
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.16it/s]
+Testing Instances: 100%|##########| 73/73 [00:00<00:00, 357.14it/s]
+Acurácia do modelo rf para Lightning7: 0.6986301369863014
+Time runtime (seconds):  0:53:03.393695
+Training Base Models: 100%|##########| 5/5 [00:04<00:00,  1.16it/s]
+Testing Instances: 100%|##########| 73/73 [00:00<00:00, 310.27it/s]
+Acurácia do modelo rd para Lightning7: 0.6438356164383562
+Time runtime (seconds):  0:53:08.004791
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 42.85it/s]
+Testing Instances: 100%|##########| 1252/1252 [00:02<00:00, 621.40it/s]
+Acurácia do modelo 1nn para MoteStrain: 0.8674121405750799
+Time runtime (seconds):  0:53:10.183352
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 39.87it/s]
+Testing Instances: 100%|##########| 1252/1252 [00:01<00:00, 627.69it/s]
+Acurácia do modelo 3nn para MoteStrain: 0.865814696485623
+Time runtime (seconds):  0:53:12.339726
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 39.75it/s]
+Testing Instances: 100%|##########| 1252/1252 [00:01<00:00, 627.85it/s]
+Acurácia do modelo svm para MoteStrain: 0.8690095846645367
+Time runtime (seconds):  0:53:14.491895
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 30.29it/s]
+Testing Instances: 100%|##########| 1252/1252 [00:02<00:00, 622.87it/s]
+Acurácia do modelo nb para MoteStrain: 0.8714057507987221
+Time runtime (seconds):  0:53:16.713757
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 39.85it/s]
+Testing Instances: 100%|##########| 1252/1252 [00:02<00:00, 618.29it/s]
+Acurácia do modelo gbc para MoteStrain: 0.8666134185303515
+Time runtime (seconds):  0:53:18.913198
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 39.84it/s]
+Testing Instances: 100%|##########| 1252/1252 [00:01<00:00, 627.53it/s]
+Acurácia do modelo ee para MoteStrain: 0.8698083067092651
+Time runtime (seconds):  0:53:21.075828
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 31.84it/s]
+Testing Instances: 100%|##########| 1252/1252 [00:02<00:00, 622.46it/s]
+Acurácia do modelo shape para MoteStrain: 0.8722044728434505
+Time runtime (seconds):  0:53:23.273325
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 39.56it/s]
+Testing Instances: 100%|##########| 1252/1252 [00:02<00:00, 613.02it/s]
+Acurácia do modelo rf para MoteStrain: 0.8674121405750799
+Time runtime (seconds):  0:53:25.474352
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 40.39it/s]
+Testing Instances: 100%|##########| 1252/1252 [00:02<00:00, 617.71it/s]
+Acurácia do modelo rd para MoteStrain: 0.8674121405750799
+Time runtime (seconds):  0:53:27.659044
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 10.97it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 211.95it/s]
+Acurácia do modelo 1nn para OliveOil: 0.9
+Time runtime (seconds):  0:53:28.291191
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 10.97it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 209.29it/s]
+Acurácia do modelo 3nn para OliveOil: 0.9
+Time runtime (seconds):  0:53:28.918005
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 11.01it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 239.67it/s]
+Acurácia do modelo svm para OliveOil: 0.9
+Time runtime (seconds):  0:53:29.554264
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 10.27it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 210.45it/s]
+Acurácia do modelo nb para OliveOil: 0.8666666666666667
+Time runtime (seconds):  0:53:30.218892
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 10.98it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 210.99it/s]
+Acurácia do modelo gbc para OliveOil: 0.9
+Time runtime (seconds):  0:53:30.849330
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 10.27it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 211.57it/s]
+Acurácia do modelo ee para OliveOil: 0.8666666666666667
+Time runtime (seconds):  0:53:31.520814
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 10.98it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 239.24it/s]
+Acurácia do modelo shape para OliveOil: 0.9333333333333333
+Time runtime (seconds):  0:53:32.156222
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 11.03it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 238.50it/s]
+Acurácia do modelo rf para OliveOil: 0.9333333333333333
+Time runtime (seconds):  0:53:32.787452
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 10.96it/s]
+Testing Instances: 100%|##########| 30/30 [00:00<00:00, 237.22it/s]
+Acurácia do modelo rd para OliveOil: 0.9333333333333333
+Time runtime (seconds):  0:53:33.420449
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 38.90it/s]
+Testing Instances: 100%|##########| 601/601 [00:00<00:00, 675.59it/s]
+Acurácia do modelo 1nn para SonyAIBORobotSurface1: 0.8153078202995009
+Time runtime (seconds):  0:53:34.466163
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 45.39it/s]
+Testing Instances: 100%|##########| 601/601 [00:00<00:00, 659.46it/s]
+Acurácia do modelo 3nn para SonyAIBORobotSurface1: 0.8153078202995009
+Time runtime (seconds):  0:53:35.516307
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 41.33it/s]
+Testing Instances: 100%|##########| 601/601 [00:00<00:00, 658.32it/s]
+Acurácia do modelo svm para SonyAIBORobotSurface1: 0.8053244592346089
+Time runtime (seconds):  0:53:36.590926
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 45.55it/s]
+Testing Instances: 100%|##########| 601/601 [00:00<00:00, 659.17it/s]
+Acurácia do modelo nb para SonyAIBORobotSurface1: 0.7920133111480865
+Time runtime (seconds):  0:53:37.650912
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 30.30it/s]
+Testing Instances: 100%|##########| 601/601 [00:00<00:00, 666.18it/s]
+Acurácia do modelo gbc para SonyAIBORobotSurface1: 0.7487520798668885
+Time runtime (seconds):  0:53:38.752161
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 45.78it/s]
+Testing Instances: 100%|##########| 601/601 [00:00<00:00, 670.87it/s]
+Acurácia do modelo ee para SonyAIBORobotSurface1: 0.8069883527454242
+Time runtime (seconds):  0:53:39.796356
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 39.46it/s]
+Testing Instances: 100%|##########| 601/601 [00:00<00:00, 664.06it/s]
+Acurácia do modelo shape para SonyAIBORobotSurface1: 0.740432612312812
+Time runtime (seconds):  0:53:40.866809
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 41.39it/s]
+Testing Instances: 100%|##########| 601/601 [00:00<00:00, 659.68it/s]
+Acurácia do modelo rf para SonyAIBORobotSurface1: 0.8103161397670549
+Time runtime (seconds):  0:53:41.930238
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 39.87it/s]
+Testing Instances: 100%|##########| 601/601 [00:00<00:00, 638.71it/s]
+Acurácia do modelo rd para SonyAIBORobotSurface1: 0.8103161397670549
+Time runtime (seconds):  0:53:43.033207
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 30.34it/s]
+Testing Instances: 100%|##########| 953/953 [00:01<00:00, 673.88it/s]
+Acurácia do modelo 1nn para SonyAIBORobotSurface2: 0.8667366211962224
+Time runtime (seconds):  0:53:44.646483
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 28.94it/s]
+Testing Instances: 100%|##########| 953/953 [00:01<00:00, 666.65it/s]
+Acurácia do modelo 3nn para SonyAIBORobotSurface2: 0.85099685204617
+Time runtime (seconds):  0:53:46.280592
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 28.39it/s]
+Testing Instances: 100%|##########| 953/953 [00:01<00:00, 651.71it/s]
+Acurácia do modelo svm para SonyAIBORobotSurface2: 0.8761804826862539
+Time runtime (seconds):  0:53:47.959138
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 29.02it/s]
+Testing Instances: 100%|##########| 953/953 [00:01<00:00, 674.25it/s]
+Acurácia do modelo nb para SonyAIBORobotSurface2: 0.8835257082896117
+Time runtime (seconds):  0:53:49.576204
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 28.83it/s]
+Testing Instances: 100%|##########| 953/953 [00:01<00:00, 666.87it/s]
+Acurácia do modelo gbc para SonyAIBORobotSurface2: 0.8593913955928646
+Time runtime (seconds):  0:53:51.220878
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 28.89it/s]
+Testing Instances: 100%|##########| 953/953 [00:01<00:00, 659.79it/s]
+Acurácia do modelo ee para SonyAIBORobotSurface2: 0.8520461699895068
+Time runtime (seconds):  0:53:52.873533
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 24.47it/s]
+Testing Instances: 100%|##########| 953/953 [00:01<00:00, 666.48it/s]
+Acurácia do modelo shape para SonyAIBORobotSurface2: 0.8436516264428122
+Time runtime (seconds):  0:53:54.556203
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 28.89it/s]
+Testing Instances: 100%|##########| 953/953 [00:01<00:00, 669.41it/s]
+Acurácia do modelo rf para SonyAIBORobotSurface2: 0.8530954879328436
+Time runtime (seconds):  0:53:56.186125
+Training Base Models: 100%|##########| 5/5 [00:00<00:00, 30.64it/s]
+Testing Instances: 100%|##########| 953/953 [00:01<00:00, 674.15it/s]
+Acurácia do modelo rd para SonyAIBORobotSurface2: 0.8436516264428122
+Time runtime (seconds):  0:53:57.808343
+Training Base Models: 100%|##########| 5/5 [1:35:10<00:00, 1142.09s/it]  
+Testing Instances: 100%|##########| 300/300 [00:00<00:00, 658.22it/s]
+Acurácia do modelo 1nn para SyntheticControl: 0.9566666666666667
+Time runtime (seconds):  2:29:09.228568
+Training Base Models: 100%|##########| 5/5 [1:37:12<00:00, 1166.48s/it]  
+Testing Instances: 100%|##########| 300/300 [00:00<00:00, 681.77it/s]
+Acurácia do modelo 3nn para SyntheticControl: 0.9466666666666667
+Time runtime (seconds):  4:06:22.585773
+Training Base Models: 100%|##########| 5/5 [1:36:22<00:00, 1156.41s/it]  
+Testing Instances: 100%|##########| 300/300 [00:00<00:00, 676.46it/s]
+Acurácia do modelo svm para SyntheticControl: 0.9666666666666667
+Time runtime (seconds):  5:42:45.571261
+Training Base Models: 100%|##########| 5/5 [1:35:20<00:00, 1144.10s/it]  
+Testing Instances: 100%|##########| 300/300 [00:00<00:00, 682.23it/s]
+Acurácia do modelo nb para SyntheticControl: 0.9566666666666667
+Time runtime (seconds):  7:18:07.027822
+Training Base Models: 100%|##########| 5/5 [1:37:08<00:00, 1165.71s/it]  
+Testing Instances: 100%|##########| 300/300 [00:00<00:00, 659.31it/s]
+Acurácia do modelo gbc para SyntheticControl: 0.9466666666666667
+Time runtime (seconds):  8:55:16.555312
+Training Base Models: 100%|##########| 5/5 [1:37:40<00:00, 1172.18s/it]  
+Testing Instances: 100%|##########| 300/300 [00:00<00:00, 666.72it/s]
+Acurácia do modelo ee para SyntheticControl: 0.9566666666666667
+Time runtime (seconds):  10:32:58.381894
+Training Base Models: 100%|##########| 5/5 [1:38:22<00:00, 1180.47s/it]  
+Testing Instances: 100%|##########| 300/300 [00:00<00:00, 645.28it/s]
+Acurácia do modelo shape para SyntheticControl: 0.96
+Time runtime (seconds):  12:11:21.697002
+Training Base Models: 100%|##########| 5/5 [1:40:26<00:00, 1205.34s/it]  
+Testing Instances: 100%|##########| 300/300 [00:00<00:00, 639.74it/s]
+Acurácia do modelo rf para SyntheticControl: 0.9433333333333334
+Time runtime (seconds):  13:51:49.409423

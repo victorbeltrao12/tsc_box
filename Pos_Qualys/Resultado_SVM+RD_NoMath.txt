@@ -33,6 +33,7 @@ Acurácia GunPointOldVersusYoung: 1.0
 Acurácia GunPointMaleVersusFemale: 0.9968354430379747
 Acurácia SmoothSubspace: 0.98
 Acurácia SemgHandSubjectCh2: 0.8777777777777778
+Acurácia SemgHandGenderCh2: 0.895
 Acurácia SmallKitchenAppliances: 0.7493333333333333
 Acurácia LargeKitchenAppliances: 0.6133333333333333
 Acurácia Plane: 0.9809523809523809
@@ -48,12 +49,14 @@ Acurácia ECG5000: 0.9404444444444444
 Acurácia Chinatown: 0.9825072886297376
 Acurácia ShapeletSim: 0.6833333333333333
 Acurácia MiddlePhalanxTW: 0.564935064935065
+Acurácia Meat: 0.9666666666666667
 Acurácia Symbols: 0.878391959798995
 Acurácia Herring: 0.65625
 Acurácia Plane: 0.9904761904761905
 Acurácia Fish: 0.8171428571428572
 Acurácia ScreenType: 0.43466666666666665
 Acurácia EOGHorizontalSignal: 0.5165745856353591
+Acurácia EOGVerticalSignal: 0.48066298342541436
 Acurácia Ham: 0.6952380952380952
 Acurácia UMD: 0.9791666666666666
 Acurácia HouseTwenty: 0.865546218487395
@@ -76,6 +79,7 @@ Acurácia CinCECGTorso: 0.8442028985507246
 Acurácia ChlorineConcentration: 0.7403645833333333
 Acurácia ArrowHead: 0.7428571428571429
 Acurácia ToeSegmentation1: 0.7236842105263158
+Acurácia ToeSegmentation2: 0.8538461538461538
 Acurácia TwoLeadECG: 0.7515364354697103
 Acurácia InsectEPGSmallTrain: 1.0
 Acurácia InsectEPGRegularTrain: 1.0
@@ -86,3 +90,15 @@ Acurácia DistalPhalanxOutlineCorrect: 0.7862318840579711
 Acurácia InsectWingbeatSound: 0.6636363636363637
 Acurácia BME: 0.96
 Acurácia Earthquakes: 0.7482014388489209
+Acurácia CricketX: 0.6743589743589744
+Acurácia Haptics: 0.45454545454545453
+Acurácia NonInvasiveFetalECGThorax1: 0.8865139949109415
+Acurácia FreezerSmallTrain: 0.8014035087719298
+Acurácia OSULeaf: 0.5743801652892562
+Acurácia BirdChicken: 0.75
+Acurácia HandOutlines: 0.9054054054054054
+Acurácia BeetleFly: 0.95
+Acurácia ACSF1: 0.83
+Acurácia DistalPhalanxOutlineAgeGroup: 0.762589928057554
+Acurácia FreezerRegularTrain: 0.9540350877192982
+Acurácia NonInvasiveFetalECGThorax2: 0.9195928753180661

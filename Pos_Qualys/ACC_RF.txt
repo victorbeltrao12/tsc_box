@@ -1,0 +1,60 @@
+Training Base Models: 100%|##########| 5/5 [20:30<00:00, 246.17s/it]
+Testing Instances: 100%|##########| 391/391 [01:02<00:00,  6.23it/s]
+Acurácia Adiac: 0.731457800511509
+Training Base Models: 100%|##########| 5/5 [01:00<00:00, 12.10s/it]
+Testing Instances: 100%|##########| 30/30 [00:05<00:00,  5.83it/s]
+Acurácia Beef: 0.7666666666666667
+Training Base Models: 100%|##########| 5/5 [02:05<00:00, 25.17s/it]
+Testing Instances: 100%|##########| 60/60 [00:09<00:00,  6.35it/s]
+Acurácia Car: 0.6833333333333333
+Training Base Models: 100%|##########| 5/5 [00:57<00:00, 11.41s/it]
+Testing Instances: 100%|##########| 900/900 [02:03<00:00,  7.29it/s]
+Acurácia CBF: 0.9388888888888889
+Training Base Models: 100%|##########| 5/5 [00:49<00:00,  9.87s/it]
+Testing Instances: 100%|##########| 28/28 [00:03<00:00,  7.17it/s]
+Acurácia Coffee: 1.0
+Training Base Models: 100%|##########| 5/5 [00:28<00:00,  5.64s/it]
+Testing Instances: 100%|##########| 306/306 [00:44<00:00,  6.81it/s]
+Acurácia DiatomSizeReduction: 0.9281045751633987
+Training Base Models: 100%|##########| 5/5 [03:04<00:00, 36.87s/it]
+Testing Instances: 100%|##########| 100/100 [00:13<00:00,  7.19it/s]
+Acurácia ECG200: 0.82
+Training Base Models: 100%|##########| 5/5 [00:40<00:00,  8.05s/it]
+Testing Instances: 100%|##########| 861/861 [02:06<00:00,  6.83it/s]
+Acurácia ECGFiveDays: 0.975609756097561
+Training Base Models: 100%|##########| 5/5 [00:43<00:00,  8.72s/it]
+Testing Instances: 100%|##########| 88/88 [00:12<00:00,  6.94it/s]
+Acurácia FaceFour: 0.875
+Training Base Models: 100%|##########| 5/5 [01:28<00:00, 17.68s/it]
+Testing Instances: 100%|##########| 150/150 [00:22<00:00,  6.62it/s]
+Acurácia GunPoint: 0.96
+Training Base Models: 100%|##########| 5/5 [01:47<00:00, 21.45s/it]
+Testing Instances: 100%|##########| 61/61 [00:08<00:00,  6.95it/s]
+Acurácia Lightning2: 0.7377049180327869
+Training Base Models: 100%|##########| 5/5 [02:07<00:00, 25.43s/it]
+Testing Instances: 100%|##########| 73/73 [00:10<00:00,  7.18it/s]
+Acurácia Lightning7: 0.7534246575342466
+Training Base Models: 100%|##########| 5/5 [13:11<00:00, 158.31s/it]
+Testing Instances: 100%|##########| 760/760 [01:43<00:00,  7.36it/s]
+Acurácia MedicalImages: 0.7578947368421053
+Training Base Models: 100%|##########| 5/5 [00:34<00:00,  6.88s/it]
+Testing Instances: 100%|##########| 1252/1252 [02:48<00:00,  7.41it/s]
+Acurácia MoteStrain: 0.8793929712460063
+Training Base Models: 100%|##########| 5/5 [00:52<00:00, 10.43s/it]
+Testing Instances: 100%|##########| 30/30 [00:04<00:00,  7.10it/s]
+Acurácia OliveOil: 0.9333333333333333
+Training Base Models: 100%|##########| 5/5 [00:34<00:00,  6.87s/it]
+Testing Instances: 100%|##########| 601/601 [01:20<00:00,  7.44it/s]
+Acurácia SonyAIBORobotSurface1: 0.8186356073211315
+Training Base Models: 100%|##########| 5/5 [00:46<00:00,  9.28s/it]
+Testing Instances: 100%|##########| 953/953 [02:08<00:00,  7.43it/s]
+Acurácia SonyAIBORobotSurface2: 0.825813221406086
+Training Base Models: 100%|##########| 5/5 [09:34<00:00, 114.80s/it]
+Testing Instances: 100%|##########| 300/300 [00:40<00:00,  7.40it/s]
+Acurácia SyntheticControl: 0.9866666666666667
+Training Base Models: 100%|##########| 5/5 [03:00<00:00, 36.14s/it]
+Testing Instances: 100%|##########| 100/100 [00:14<00:00,  6.87it/s]
+Acurácia Trace: 0.93
+Training Base Models: 100%|##########| 5/5 [49:35<00:00, 595.15s/it]
+Testing Instances: 100%|##########| 4000/4000 [08:50<00:00,  7.55it/s]
+Acurácia TwoPatterns: 0.9005

@@ -1,0 +1,20 @@
+Eu quero comparar diversas probabilidades de classificação de um mesmo classificador variando por algumas representações de dados. Desejo que a comparação seja feita desta forma, digamos que eu possua 5 extratores, sendo eles 5 variações de SVM, uma treinada sobre dados em FFT, outra Treinada em dados DWT e por assim por diante.
+
+Dessa forma eu quero pegar as probabilidades de cada SVM e verificar qual é a melhor para utilizar fazer a classificação.
+
+SVM+TS = probabilidade da classe 1
+SVM+DWT = probabilidade da classe 1
+SVM+FFT = probabilidade da classe 1
+SVM+PAA = probabilidade da classe 1
+SVM+SAX = probabilidade da classe 1
+
+O calculo seria mais ou menos assim
+Instância 1
+classe 1 (SVM+TS 1 + SVM+DWT 1 + SVM+FFT 1 + SVM+PAA 1 + SVM+SAX 1) = 10
+classe 2 (SVM+TS 2 + SVM+DWT 2 + SVM+FFT 2 + SVM+PAA 2 + SVM+SAX 2) = 20
+classe 3 (SVM+TS 3 + SVM+DWT 3 + SVM+FFT 3 + SVM+PAA 3 + SVM+SAX 3) = 30
+
+RESULTADO = np.argmax(10,20,30)
+instância 1 = Classe 3
+
+Dessa maneira eu terei a melhor classificação a nível de instância verificando a melhor classe de todos os classificadores

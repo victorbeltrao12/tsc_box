@@ -1,0 +1,21 @@
+Dataset Name          ,Accuracy
+Adiac                 ,0.7084398976982097
+Beef                  ,0.7666666666666667
+Car                   ,0.7166666666666667
+CBF                   ,0.9811111111111112
+Coffee                ,1.0
+DiatomSizeReduction   ,0.9281045751633987
+ECG200                ,0.88
+ECGFiveDays           ,0.9814169570267132
+FaceFour              ,0.9090909090909091
+GunPoint              ,0.9866666666666667
+Lightning2            ,0.7868852459016393
+Lightning7            ,0.684931506849315
+MedicalImages         ,0.756578947368421
+MoteStrain            ,0.8730031948881789
+OliveOil              ,0.9
+SonyAIBORobotSurface1 ,0.8286189683860233
+SonyAIBORobotSurface2 ,0.8667366211962224
+SyntheticControl      ,0.98
+Trace                 ,0.88
+TwoPatterns           ,0.9335

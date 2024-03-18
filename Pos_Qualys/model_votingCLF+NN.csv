@@ -1,20 +1,20 @@
-Dataset Name,Accuracy
-Beef,0.6666666666666666
-Car,0.7333333333333333
-CBF,0.8822222222222222
-Coffee,1.0
-DiatomSizeReduction,0.934640522875817
-ECG200,0.87
-ECGFiveDays,0.8536585365853658
-FaceFour,0.7954545454545454
-GunPoint,0.9133333333333333
-Lightning2,0.6885245901639344
-Lightning7,0.6027397260273972
-MedicalImages,0.6986842105263158
-MoteStrain,0.853035143769968
-OliveOil,0.8666666666666667
-SonyAIBORobotSurface1,0.7104825291181365
-SonyAIBORobotSurface2,0.8730325288562435
-SyntheticControl,0.9633333333333334
-Trace,0.79
-TwoPatterns,0.932
+Dataset Name          ,Accuracy
+Beef                  ,0.6666666666666666
+Car                   ,0.7333333333333333
+CBF                   ,0.8822222222222222
+Coffee                ,1.0
+DiatomSizeReduction   ,0.934640522875817
+ECG200                ,0.87
+ECGFiveDays           ,0.8536585365853658
+FaceFour              ,0.7954545454545454
+GunPoint              ,0.9133333333333333
+Lightning2            ,0.6885245901639344
+Lightning7            ,0.6027397260273972
+MedicalImages         ,0.6986842105263158
+MoteStrain            ,0.853035143769968
+OliveOil              ,0.8666666666666667
+SonyAIBORobotSurface1 ,0.7104825291181365
+SonyAIBORobotSurface2 ,0.8730325288562435
+SyntheticControl      ,0.9633333333333334
+Trace                 ,0.79
+TwoPatterns           ,0.932

@@ -18,3 +18,5 @@ Acurácia SonyAIBORobotSurface2: 0.8793284365162645
 Acurácia SyntheticControl: 0.9966666666666667
 Acurácia Trace: 1.0
 Acurácia TwoPatterns: 1.0
+
+

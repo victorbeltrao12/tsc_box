@@ -1,0 +1,20 @@
+Dataset Name          ,Accuracy
+Beef                  ,0.7
+Car                   ,0.8833333333333333
+CBF                   ,1.0
+Coffee                ,1.0
+DiatomSizeReduction   ,0.9771241830065359
+ECG200                ,0.88
+ECGFiveDays           ,1.0
+FaceFour              ,0.9772727272727273
+GunPoint              ,0.9933333333333333
+Lightning2            ,0.7704918032786885
+Lightning7            ,0.8493150684931506
+MedicalImages         ,0.7736842105263158
+MoteStrain            ,0.9057507987220448
+OliveOil              ,0.9333333333333333
+SonyAIBORobotSurface1 ,0.9051580698835274
+SonyAIBORobotSurface2 ,0.8887722980062959
+SyntheticControl      ,1.0
+Trace                 ,1.0
+TwoPatterns           ,1.0

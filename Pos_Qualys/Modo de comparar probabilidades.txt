@@ -1,18 +1,17 @@
-Eu quero comparar diversas probabilidades de classificação de um mesmo classificador variando por algumas representações de dados. Desejo que a comparação seja feita desta forma, digamos que eu possua 5 extratores, sendo eles 5 variações de SVM, uma treinada sobre dados em FFT, outra Treinada em dados DWT e por assim por diante.
+Eu quero comparar diversas probabilidades de classificação de varios classificadores variando por algumas representações de dados. Desejo que a comparação seja feita de forma que eu possa comparar todas as probabilidades de cada classificador e utilizar a melhor para fazer a classificação. Os classificadores seriam todos florestas de decisao (Decision Tree, Rotation Tree, RandomForest, ExtraTree, TimeSeriesForestClassifier,ContinuousIntervalTree,BaseIntervalForest)
 
-Dessa forma eu quero pegar as probabilidades de cada SVM e verificar qual é a melhor para utilizar fazer a classificação.
 
-SVM+TS = probabilidade da classe 1
-SVM+DWT = probabilidade da classe 1
-SVM+FFT = probabilidade da classe 1
-SVM+PAA = probabilidade da classe 1
-SVM+SAX = probabilidade da classe 1
+CLF1+TS = probabilidade da classe 1
+CLF1+DWT = probabilidade da classe 1
+CLF1+FFT = probabilidade da classe 1
+CLF1+PAA = probabilidade da classe 1
+CLF1+SAX = probabilidade da classe 1
 
 O calculo seria mais ou menos assim
 Instância 1
-classe 1 (SVM+TS 1 + SVM+DWT 1 + SVM+FFT 1 + SVM+PAA 1 + SVM+SAX 1) = 10
-classe 2 (SVM+TS 2 + SVM+DWT 2 + SVM+FFT 2 + SVM+PAA 2 + SVM+SAX 2) = 20
-classe 3 (SVM+TS 3 + SVM+DWT 3 + SVM+FFT 3 + SVM+PAA 3 + SVM+SAX 3) = 30
+classe 1 (CLF1+TS 1 + CLF1+DWT 1 + CLF1+FFT 1 + CLF1+PAA 1 + CLF1+SAX 1) = 10
+classe 2 (CLF1+TS 2 + CLF1+DWT 2 + CLF1+FFT 2 + CLF1+PAA 2 + CLF1+SAX 2) = 20
+classe 3 (CLF1+TS 3 + CLF1+DWT 3 + CLF1+FFT 3 + CLF1+PAA 3 + CLF1+SAX 3) = 30
 
 RESULTADO = np.argmax(10,20,30)
 instância 1 = Classe 3

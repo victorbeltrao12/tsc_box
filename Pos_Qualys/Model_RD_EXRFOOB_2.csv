@@ -1,18 +1,18 @@
-Dataset Name,Accuracy
-SwedishLeaf,0.9456
-ProximalPhalanxOutlineAgeGroup,0.8536585365853658
-GunPointOldVersusYoung,0.9968253968253968
-Wine,0.6666666666666666
-Yoga,0.883
-ArrowHead,0.8228571428571428
-InsectEPGSmallTrain,1.0
-PowerCons,0.9722222222222222
-InsectEPGRegularTrain,1.0
-GunPointMaleVersusFemale,0.9968354430379747
-ItalyPowerDemand,0.9611273080660836
-BME,0.9933333333333333
-Meat,0.95
-Earthquakes,0.7553956834532374
-BirdChicken,0.85
-BeetleFly,0.9
-ACSF1,0.84
+Dataset Name                   ,Accuracy
+SwedishLeaf                    ,0.9456
+ProximalPhalanxOutlineAgeGroup ,0.8536585365853658
+GunPointOldVersusYoung         ,0.9968253968253968
+Wine                           ,0.6666666666666666
+Yoga                           ,0.883
+ArrowHead                      ,0.8228571428571428
+InsectEPGSmallTrain            ,1.0
+PowerCons                      ,0.9722222222222222
+InsectEPGRegularTrain          ,1.0
+GunPointMaleVersusFemale       ,0.9968354430379747
+ItalyPowerDemand               ,0.9611273080660836
+BME                            ,0.9933333333333333
+Meat                           ,0.95
+Earthquakes                    ,0.7553956834532374
+BirdChicken                    ,0.85
+BeetleFly                      ,0.9
+ACSF1                          ,0.84

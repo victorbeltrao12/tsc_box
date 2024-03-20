@@ -1,0 +1,5 @@
+explicar meta-caracteristicas
+extrair pro treino e teste
+a melhor representacao pra cada instancia de dados ou series temporais nesse caso
+problema escolher a melhor representação da serie temporal
+escolher a melhor representacao 

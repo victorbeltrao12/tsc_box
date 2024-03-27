@@ -1,0 +1,136 @@
+Adiac: 0.7979539641943734
+Beef: 0.8333333333333334
+Car: 0.8333333333333334
+CBF: 0.9766666666666667
+Coffee: 1.0
+DiatomSizeReduction: 0.9640522875816994
+Acurácia ECG200: 0.89
+Acurácia ECGFiveDays: 1.0
+Acurácia FaceFour: 0.9545454545454546
+Acurácia GunPoint: 0.9733333333333334
+Acurácia Lightning2: 0.7377049180327869
+Acurácia Lightning7: 0.7534246575342466
+Acurácia MedicalImages: 0.7973684210526316
+Acurácia MoteStrain: 0.8146964856230032
+Acurácia OliveOil: 0.9
+Acurácia SonyAIBORobotSurface1: 0.8585690515806988
+Acurácia SonyAIBORobotSurface2: 0.8956082056663168
+Acurácia SyntheticControl: 0.9966333333333333
+Acurácia Trace: 1.0
+Acurácia TwoPatterns: 0.9997
+Acurácia SmoothSubspace: 0.9866666666666667
+Acurácia GunPointAgeSpan: 0.9968354430379747
+Acurácia Chinatown: 0.9854227405247813
+Acurácia Rock: 0.94
+
+
+
+
+
+
+### Algoritmo de arvore aleatoria
+
+\begin{algorithm}
+\caption{Random Forest Classifier}
+\begin{algorithmic}[1]
+\Procedure{RandomForest}{$D, T, m$}
+    \State $F \gets [ ]$: {Lista vazia para armazenar as árvores da floresta}
+    \For{$t \gets 1$ \textbf{to} $T$}
+        \State $S_t \gets$ \Call{BootstrapSample}{$D$}: {Amostra de bootstrap do conjunto de dados}
+        \State $T_t \gets$ \Call{DecisionTree}{$S_t, m$}: {Construir uma árvore de decisão com $m$ características}
+        \State Adicione $T_t$ à lista $F$
+    \EndFor
+    \State \textbf{return} $F$
+\EndProcedure
+\Statex
+\Procedure{BootstrapSample}{$D$}
+    \State $n \gets$ número de exemplos em $D$
+    \State $S \gets [ ]$: {Lista vazia para armazenar a amostra de bootstrap}
+    \For{$i \gets 1$ \textbf{to} $n$}
+        \State $j \gets$ número aleatório entre $1$ e $n$
+        \State Adicione $D[j]$ à lista $S$
+    \EndFor
+    \State \textbf{return} $S$
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
+
+
+
+
+
+
+\begin{algorithm}
+\caption{Treinamento do Classificador}\label{alg:train_classifier}
+\begin{algorithmic}[1]
+\Procedure{treinar\_classificador}{$D, y, wavelet$}
+    \State $modelos\_treinados \gets \{\}$ 
+    \State $D\_transformado \gets \text{transformar\_dados}(D, wavelet)$ 
+    \For{each $rep, X\_trans$ in $D\_transformado.items()$}
+        \State $modelo \gets \text{CombinedDecisionForest}()$
+        \State $modelo.treinar(X\_trans, y)$
+        \State $modelos\_treinados[rep] \gets modelo$
+    \EndFor
+    \State $meta\_atributos \gets []$
+    \For{$i$ in $range(tamanho(D))$}
+        \State $atributos\_instancia \gets []$
+        \For{$rep, modelo$ in $modelos\_treinados.items()$}
+            \State $proba \gets modelo.prever\_proba(vetor(D\_transformado[rep][i]))$
+            \State $atributos\_instancia \gets atributos\_instancia + proba$
+        \EndFor
+        \State $meta\_atributos \gets meta\_atributos + atributos\_instancia$
+    \EndFor
+    \State $meta\_atributos \gets vetor(meta\_atributos)$
+    \State $meta\_classificador \gets RidgeClassifierCV(alphas=np.logspace(-3, 3, 10))$
+    \State $meta\_classificador.treinar(meta\_atributos, y)$
+    \State \Return $modelos\_treinados, meta\_classificador$
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
+\begin{algorithm}
+\caption{Predição do Classificador}\label{alg:predict_classifier}
+\begin{algorithmic}[1]
+\Procedure{prever\_classificador}{$X\_teste, modelos\_treinados, meta\_classificador, wavelet$}
+    \State $previsoes \gets []$
+    \State $meta\_atributos\_teste \gets []$
+    \For{$i$ in $range(tamanho(X\_teste))$}
+        \State $x\_instancia \gets vetor(X\_teste[i])$
+        \State $x\_transformado \gets \text{transformar\_dados}(x\_instancia, wavelet)$
+        \State $atributos\_instancia \gets []$
+        \For{$rep, X\_trans$ in $x\_transformado.items()$}
+            \State $proba \gets modelos\_treinados[rep].prever\_proba(vetor(X\_trans))$
+            \State $atributos\_instancia \gets atributos\_instancia + proba$
+        \EndFor
+        \State $meta\_atributo \gets vetor(atributos\_instancia)$
+        \State $previsoes \gets previsoes + meta\_classificador.prever(meta\_atributo)$
+        \State $meta\_atributos\_teste \gets meta\_atributos\_teste + meta\_atributo$
+    \EndFor
+    \State \Return $previsoes$
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
+
+\begin{algorithm}
+\caption{Calcular DWT e Armazenar em X}\label{alg:calcular_dwt_e_armazenar_em_X}
+\begin{algorithmic}[1]
+\Procedure{calcular\_dwt\_e\_armazenar\_em\_X}{$X, wavelet$}
+    \Comment{Calcular a transformada discreta wavelet (DWT) de X}
+    \State $matriz\ coeffs\_cA, coeffs\_cD$
+    \State $coeffs\_cA, coeffs\_cD \gets calcular\_dwt(X, wavelet)$
+    \Comment{Concatenar os coeficientes cA e cD horizontalmente}
+    \State $matriz\ X\_dwt$
+    \For{cada $linha$ em $X$}
+        \For{cada $coeficiente$ em $coeffs\_cA$}
+            \State $adicionar\_coeficiente\_em\_X\_dwt(X\_dwt, coeficiente)$
+        \EndFor
+        \For{cada $coeficiente$ em $coeffs\_cD$}
+            \State $adicionar\_coeficiente\_em\_X\_dwt(X\_dwt, coeficiente)$
+        \EndFor
+    \EndFor
+    \State \Return $X\_dwt$
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}

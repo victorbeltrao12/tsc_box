@@ -22,10 +22,19 @@ Acurácia SmoothSubspace: 0.9866666666666667
 Acurácia GunPointAgeSpan: 0.9968354430379747
 Acurácia Chinatown: 0.9854227405247813
 Acurácia Rock: 0.94
-
-
-
-
+Acurácia ArrowHead: 0.7485714285714286
+Acurácia Strawberry: 0.9675675675675676
+Acurácia BME: 1.0
+Acurácia Earthquakes: 0.7482014388489209
+Acurácia SwedishLeaf: 0.9552
+Acurácia Worms: 0.7272727272727273
+Acurácia SemgHandMovementCh2: 0.8488888888888889
+Acurácia Herring: 0.640625
+Acurácia SemgHandSubjectCh2: 0.9311111111111111
+Acurácia LargeKitchenAppliances: 0.7706666666666667
+Acurácia Plane: 1.0
+Acurácia Fish: 0.8914285714285715
+Acurácia ScreenType: 0.5093333333333333
 
 
 ### Algoritmo de arvore aleatoria

@@ -1,58 +1,86 @@
-Acurácia Car: 0.8333333333333334
-Acurácia SmoothSubspace: 0.9733333333333334
-Acurácia ScreenType: 0.5013333333333333
-Acurácia TwoPatterns: 0.99725
-Acurácia ItalyPowerDemand: 0.9698736637512148
-Acurácia Plane: 1.0
-Acurácia Fish: 0.8914285714285715
-Acurácia DistalPhalanxTW: 0.6690647482014388
-Acurácia ProximalPhalanxTW: 0.8097560975609757
-Acurácia HouseTwenty: 0.9327731092436975
-Acurácia SemgHandSubjectCh2: 0.9288888888888889
-Acurácia ProximalPhalanxOutlineAgeGroup: 0.8536585365853658
-Acurácia InlineSkate: 0.5872727272727273
-Acurácia GunPointAgeSpan: 0.9778481012658228
-Acurácia Haptics: 0.5162337662337663
-Acurácia CricketZ: 0.6974358974358974
-Acurácia PhalangesOutlinesCorrect: 0.8368298368298368
-Acurácia CinCECGTorso: 0.9934782608695653
-Acurácia DiatomSizeReduction: 0.9640522875816994
-Acurácia PigCVP: 0.6971153846153846
-Acurácia FordB: 0.8320987654320988
-Acurácia SemgHandSubjectCh2: 0.9444444444444444
-Acurácia ScreenType: 0.5253333333333333  
-Acurácia Yoga: 0.8553333333333333  
-Acurácia UWaveGestureLibraryY: 0.7414852037967616
-Acurácia SemgHandGenderCh2: 0.975  
-Acurácia ElectricDevices: 0.697834262741538
-Acurácia OSULeaf: 0.7768595041322314
-Acurácia GunPointAgeSpan: 0.9746835443037974
-Acurácia ToeSegmentation1: 0.8903508771929824
-Acurácia ToeSegmentation2: 0.8538461538461538
-Acurácia CricketZ: 0.676923076923077
-Acurácia Strawberry: 0.9675675675675676
-Acurácia CricketY: 0.6897435897435897
-Acurácia WordSynonyms: 0.5768025078369906
-Acurácia RefrigerationDevices: 0.5653333333333334  
-Acurácia MixedShapesSmallTrain: 0.8890721649484536  
-Acurácia Wafer: 0.9972420506164829
-Acurácia Worms: 0.8181818181818182  
-Acurácia Phoneme: 0.2568565400843882
-Acurácia GunPointOldVersusYoung: 0.9904761904761905
-Acurácia UMD: 0.9791666666666666  
-Acurácia InsectWingbeatSound: 0.6636363636363637
-Acurácia TwoLeadECG: 0.9789288849868305
-Acurácia Rock: 0.84
-Acurácia DistalPhalanxOutlineAgeGroup: 0.7482014388489209
-Acurácia ACSF1: 0.81
-Acurácia FiftyWords: 0.7274725274725274
-Acurácia HouseTwenty: 0.9411764705882353
-Acurácia Meat: 0.9666666666666667  
-Acurácia FreezerRegularTrain: 0.9975438596491228   
-Acurácia Crop: 0.7575595238095238
-Acurácia CricketX: 0.6743589743589744  
-Acurácia UWaveGestureLibraryX: 0.7959240647682859
-Acurácia ProximalPhalanxTW: 0.8
-Acurácia SwedishLeaf: 0.9456 
-Acurácia FreezerSmallTrain: 0.996140350877193
-Acurácia ArrowHead: 0.6742857142857143
+Car: 0.8333333333333334
+SmoothSubspace: 0.9733333333333334
+ScreenType: 0.5013333333333333
+TwoPatterns: 0.99725
+ItalyPowerDemand: 0.9698736637512148
+Plane: 1.0
+Fish: 0.8914285714285715
+DistalPhalanxTW: 0.6690647482014388
+ProximalPhalanxTW: 0.8097560975609757
+HouseTwenty: 0.9327731092436975
+SemgHandSubjectCh2: 0.9288888888888889
+ProximalPhalanxOutlineAgeGroup: 0.8536585365853658
+InlineSkate: 0.5872727272727273
+GunPointAgeSpan: 0.9778481012658228
+Haptics: 0.5162337662337663
+CricketZ: 0.6974358974358974
+PhalangesOutlinesCorrect: 0.8368298368298368
+CinCECGTorso: 0.9934782608695653
+DiatomSizeReduction: 0.9640522875816994
+PigCVP: 0.6971153846153846
+FordB: 0.8320987654320988
+SemgHandSubjectCh2: 0.9444444444444444
+ScreenType: 0.5253333333333333  
+Yoga: 0.8553333333333333  
+UWaveGestureLibraryY: 0.7414852037967616
+SemgHandGenderCh2: 0.975  
+ElectricDevices: 0.697834262741538
+OSULeaf: 0.7768595041322314
+GunPointAgeSpan: 0.9746835443037974
+ToeSegmentation1: 0.8903508771929824
+ToeSegmentation2: 0.8538461538461538
+CricketZ: 0.676923076923077
+Strawberry: 0.9675675675675676
+CricketY: 0.6897435897435897
+WordSynonyms: 0.5768025078369906
+RefrigerationDevices: 0.5653333333333334  
+MixedShapesSmallTrain: 0.8890721649484536  
+Wafer: 0.9972420506164829
+Worms: 0.8181818181818182  
+Phoneme: 0.2568565400843882
+GunPointOldVersusYoung: 0.9904761904761905
+UMD: 0.9791666666666666  
+InsectWingbeatSound: 0.6636363636363637
+TwoLeadECG: 0.9789288849868305
+Rock: 0.84
+DistalPhalanxOutlineAgeGroup: 0.7482014388489209
+ACSF1: 0.81
+FiftyWords: 0.7274725274725274
+HouseTwenty: 0.9411764705882353
+Meat: 0.9666666666666667  
+FreezerRegularTrain: 0.9975438596491228   
+Crop: 0.7575595238095238
+CricketX: 0.6743589743589744  
+UWaveGestureLibraryX: 0.7959240647682859
+ProximalPhalanxTW: 0.8
+SwedishLeaf: 0.9456 
+FreezerSmallTrain: 0.996140350877193
+ArrowHead: 0.6742857142857143
+Fish: 0.9085714285714286 
+StarLightCurves: 0.9793589120932491
+InsectEPGSmallTrain: 1.0
+WormsTwoClass: 0.8441558441558441
+CinCECGTorso: 0.9898550724637681]
+MiddlePhalanxOutlineCorrect: 0.845360824742268
+Haptics: 0.5357142857142857
+Ham: 0.7142857142857143
+SmallKitchenAppliances: 0.824  
+UWaveGestureLibraryAll: 0.9544946957007259
+ProximalPhalanxOutlineCorrect: 0.8934707903780069
+InsectEPGRegularTrain: 1.0
+ProximalPhalanxOutlineAgeGroup: 0.8439024390243902
+
+ 
+Mallat: 0.9556503198294243
+EOGVerticalSignal: 0.5359116022099447
+Herring: 0.625  
+FaceAll: 0.8349112426035503
+Wine: 0.6481481481481481  
+UWaveGestureLibraryZ: 0.7610273590173088  
+MixedShapesRegularTrain: 0.9393814432989691
+InlineSkate: 0.6
+MiddlePhalanxTW: 0.512987012987013 
+FordA: 0.9696969696969697
+Plane: 1.0
+BirdChicken: 0.95
+DiatomSizeReduction: 0.9509803921568627

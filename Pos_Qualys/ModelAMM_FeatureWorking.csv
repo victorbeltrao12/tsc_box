@@ -1,113 +1,113 @@
-    ,Dataset Name                   ,Accuracy
-  0 ,GunPointOldVersusYoung         ,1.0
-  1 ,MoteStrain                     ,0.9193290734824281
-  2 ,DistalPhalanxOutlineCorrect    ,0.7862318840579711
-  3 ,Phoneme                        ,0.2668776371308017
-  4 ,DistalPhalanxTW                ,0.697841726618705
-  5 ,WormsTwoClass                  ,0.7142857142857143
-  6 ,Computers                      ,0.756
-  7 ,UWaveGestureLibraryX           ,0.8112786152987158
-  8 ,InsectEPGSmallTrain            ,1.0
-  9 ,GunPointMaleVersusFemale       ,1.0
- 10 ,ECG200                         ,0.88
- 11 ,OSULeaf                        ,0.6322314049586777
- 12 ,ArrowHead                      ,0.6857142857142857
- 13 ,StarLightCurves                ,0.9734094220495386
- 14 ,SonyAIBORobotSurface1          ,0.8785357737104825
- 15 ,FaceFour                       ,1.0
- 16 ,Car                            ,0.8
- 17 ,GunPoint                       ,0.9666666666666667
- 18 ,MiddlePhalanxTW                ,0.5714285714285714
- 19 ,TwoPatterns                    ,0.998
- 20 ,ACSF1                          ,0.83
- 21 ,SmoothSubspace                 ,0.9933333333333333
- 22 ,CBF                            ,0.9733333333333334
- 23 ,PigCVP                         ,0.3269230769230769
- 24 ,BirdChicken                    ,0.9
- 25 ,CricketY                       ,0.7435897435897436
- 26 ,BeetleFly                      ,0.95
- 27 ,CinCECGTorso                   ,0.946376811594203
- 28 ,InlineSkate                    ,0.42
- 29 ,Herring                        ,0.609375
- 30 ,Wafer                          ,0.9980532121998702
- 31 ,ECGFiveDays                    ,0.983739837398374
- 32 ,OliveOil                       ,0.9
- 33 ,LargeKitchenAppliances         ,0.6186666666666667
- 34 ,SonyAIBORobotSurface2          ,0.832109129066107
- 35 ,NonInvasiveFetalECGThorax2     ,0.9318066157760814
- 36 ,SyntheticControl               ,0.9933333333333333
- 37 ,EthanolLevel                   ,0.476
- 38 ,Plane                          ,0.9904761904761905
- 39 ,Ham                            ,0.6952380952380952
- 40 ,FacesUCR                       ,0.8990243902439025
- 41 ,DiatomSizeReduction            ,0.9411764705882353
- 42 ,FordA                          ,0.9454545454545454
- 43 ,FreezerRegularTrain            ,0.9905263157894737
- 44 ,FordB                          ,0.7950617283950617
- 45 ,Lightning7                     ,0.7534246575342466
- 46 ,MixedShapesRegularTrain        ,0.9369072164948453
- 47 ,CricketZ                       ,0.7461538461538462
- 48 ,InsectWingbeatSound            ,0.6717171717171717
- 49 ,UMD                            ,0.9791666666666666
- 50 ,HouseTwenty                    ,0.8991596638655462
- 51 ,Meat                           ,0.9333333333333333
- 52 ,PowerCons                      ,1.0
- 53 ,SmallKitchenAppliances         ,0.8213333333333334
- 54 ,ChlorineConcentration          ,0.74296875
- 55 ,PigArtPressure                 ,0.4230769230769231
- 56 ,TwoLeadECG                     ,0.8507462686567164
- 57 ,RefrigerationDevices           ,0.5626666666666666
- 58 ,EOGHorizontalSignal            ,0.5220994475138122
- 59 ,Haptics                        ,0.4772727272727273
- 60 ,CricketX                       ,0.7102564102564103
- 61 ,ToeSegmentation1               ,0.793859649122807
- 62 ,MedicalImages                  ,0.8092105263157895
- 63 ,ProximalPhalanxOutlineAgeGroup ,0.8585365853658536
- 64 ,Mallat                         ,0.9582089552238806
- 65 ,Wine                           ,0.7407407407407407
- 66 ,ItalyPowerDemand               ,0.966958211856171
- 67 ,Rock                           ,0.8
- 68 ,Fish                           ,0.8514285714285714
- 69 ,SemgHandMovementCh2            ,0.8533333333333334
- 70 ,UWaveGestureLibraryZ           ,0.7571189279731994
- 71 ,GunPointAgeSpan                ,0.990506329113924
- 72 ,Worms                          ,0.6493506493506493
- 73 ,EOGVerticalSignal              ,0.511049723756906
- 74 ,Strawberry                     ,0.9702702702702702
- 75 ,ShapeletSim                    ,0.9444444444444444
- 76 ,HandOutlines                   ,0.9081081081081082
- 77 ,MiddlePhalanxOutlineAgeGroup   ,0.551948051948052
- 78 ,Beef                           ,0.7
- 79 ,BME                            ,1.0
- 80 ,Symbols                        ,0.9457286432160804
- 81 ,FiftyWords                     ,0.7648351648351648
- 82 ,PhalangesOutlinesCorrect       ,0.8391608391608392
- 83 ,ProximalPhalanxTW              ,0.8195121951219512
- 84 ,SwedishLeaf                    ,0.9376
- 85 ,FaceAll                        ,0.7994082840236686
- 86 ,MiddlePhalanxOutlineCorrect    ,0.8350515463917526
- 87 ,WordSynonyms                   ,0.664576802507837
- 88 ,SemgHandSubjectCh2             ,0.92
- 89 ,UWaveGestureLibraryAll         ,0.9592406476828588
- 90 ,ElectricDevices                ,0.7338866554273117
- 91 ,ProximalPhalanxOutlineCorrect  ,0.8797250859106529
- 92 ,ECG5000                        ,0.9393333333333334
- 93 ,NonInvasiveFetalECGThorax1     ,0.9134860050890585
- 94 ,Coffee                         ,1.0
- 95 ,PigAirwayPressure              ,0.23557692307692307
- 96 ,Lightning2                     ,0.8032786885245902
- 97 ,SemgHandGenderCh2              ,0.9683333333333334
- 98 ,UWaveGestureLibraryY           ,0.7280848687883864
- 99 ,Earthquakes                    ,0.7482014388489209
-100 ,ShapesAll                      ,0.8483333333333334
-101 ,MixedShapesSmallTrain          ,0.8738144329896907
-102 ,Crop                           ,0.7728571428571429
-103 ,Trace                          ,0.98
-104 ,Chinatown                      ,0.9795918367346939
-105 ,Yoga                           ,0.848
-106 ,FreezerSmallTrain              ,0.88
-107 ,ScreenType                     ,0.4693333333333333
-108 ,DistalPhalanxOutlineAgeGroup   ,0.762589928057554
-109 ,ToeSegmentation2               ,0.9
-110 ,InsectEPGRegularTrain          ,1.0
-111 ,Adiac                          ,0.7493606138107417
+,Dataset Name,Accuracy
+0,ECGFiveDays,0.9825783972125436
+1,Lightning2,0.7868852459016393
+2,UWaveGestureLibraryZ,0.7599106644332775
+3,FreezerSmallTrain,0.8807017543859649
+4,UMD,0.9861111111111112
+5,Yoga,0.844
+6,GunPointMaleVersusFemale,1.0
+7,TwoLeadECG,0.8507462686567164
+8,Wafer,0.9975665152498377
+9,Strawberry,0.9702702702702702
+10,InsectEPGRegularTrain,1.0
+11,Lightning7,0.7534246575342466
+12,Fish,0.8571428571428571
+13,EOGHorizontalSignal,0.5276243093922652
+14,WordSynonyms,0.658307210031348
+15,PigCVP,0.3269230769230769
+16,Chinatown,0.9795918367346939
+17,ProximalPhalanxOutlineCorrect,0.8797250859106529
+18,Trace,0.99
+19,MedicalImages,0.8039473684210526
+20,ArrowHead,0.7028571428571428
+21,FiftyWords,0.7582417582417582
+22,ToeSegmentation2,0.8846153846153846
+23,SmallKitchenAppliances,0.8186666666666667
+24,InsectEPGSmallTrain,1.0
+25,ProximalPhalanxTW,0.8195121951219512
+26,Rock,0.76
+27,TwoPatterns,0.99825
+28,SemgHandGenderCh2,0.9716666666666667
+29,SemgHandMovementCh2,0.8577777777777778
+30,Beef,0.7333333333333333
+31,OliveOil,0.9
+32,Earthquakes,0.7482014388489209
+33,PhalangesOutlinesCorrect,0.8344988344988346
+34,PigAirwayPressure,0.2403846153846154
+35,ECG200,0.86
+36,FaceFour,0.9772727272727273
+37,PowerCons,1.0
+38,InsectWingbeatSound,0.6727272727272727
+39,Haptics,0.474025974025974
+40,UWaveGestureLibraryAll,0.9592406476828588
+41,CricketX,0.7025641025641025
+42,ScreenType,0.48533333333333334
+43,ChlorineConcentration,0.74296875
+44,SonyAIBORobotSurface1,0.8885191347753744
+45,Meat,0.9333333333333333
+46,GunPointAgeSpan,0.990506329113924
+47,RefrigerationDevices,0.5733333333333334
+48,ShapeletSim,0.9388888888888889
+49,SyntheticControl,0.9933333333333333
+50,CricketZ,0.7461538461538462
+51,EOGVerticalSignal,0.5193370165745856
+52,Symbols,0.9417085427135679
+53,Herring,0.609375
+54,SmoothSubspace,0.9933333333333333
+55,ECG5000,0.9404444444444444
+56,Car,0.7833333333333333
+57,ItalyPowerDemand,0.9698736637512148
+58,ProximalPhalanxOutlineAgeGroup,0.8634146341463415
+59,FacesUCR,0.9024390243902439
+60,Worms,0.6233766233766234
+61,CinCECGTorso,0.9514492753623188
+62,OSULeaf,0.6322314049586777
+63,BirdChicken,0.9
+64,SonyAIBORobotSurface2,0.8300104931794333
+65,MiddlePhalanxOutlineAgeGroup,0.5974025974025974
+66,SemgHandSubjectCh2,0.9222222222222223
+67,Phoneme,0.2800632911392405
+68,Mallat,0.9530916844349681
+69,Coffee,1.0
+70,Ham,0.6857142857142857
+71,StarLightCurves,0.9729237493929092
+72,Wine,0.7222222222222222
+73,NonInvasiveFetalECGThorax2,0.9323155216284987
+74,MixedShapesRegularTrain,0.9352577319587629
+75,ACSF1,0.84
+76,BME,1.0
+77,DistalPhalanxOutlineAgeGroup,0.762589928057554
+78,UWaveGestureLibraryY,0.7308766052484645
+79,GunPoint,0.9666666666666667
+80,InlineSkate,0.4309090909090909
+81,Plane,1.0
+82,FordB,0.7950617283950617
+83,GunPointOldVersusYoung,1.0
+84,NonInvasiveFetalECGThorax1,0.9129770992366413
+85,DistalPhalanxOutlineCorrect,0.782608695652174
+86,HandOutlines,0.9135135135135135
+87,CBF,0.9766666666666667
+88,ElectricDevices,0.7332382310984308
+89,CricketY,0.735897435897436
+90,FordA,0.95
+91,ShapesAll,0.8433333333333334
+92,Adiac,0.7595907928388747
+93,BeetleFly,0.95
+94,FreezerRegularTrain,0.9905263157894737
+95,SwedishLeaf,0.944
+96,MiddlePhalanxOutlineCorrect,0.8247422680412371
+97,ToeSegmentation1,0.793859649122807
+98,MoteStrain,0.9185303514376997
+99,PigArtPressure,0.4326923076923077
+100,Computers,0.728
+101,EthanolLevel,0.484
+102,UWaveGestureLibraryX,0.8118369625907315
+103,FaceAll,0.7928994082840237
+104,MiddlePhalanxTW,0.5584415584415584
+105,WormsTwoClass,0.7272727272727273
+106,DistalPhalanxTW,0.7122302158273381
+107,Crop,0.7713690476190476
+108,LargeKitchenAppliances,0.6213333333333333
+109,HouseTwenty,0.9243697478991597
+110,DiatomSizeReduction,0.9575163398692811
+111,MixedShapesSmallTrain,0.8762886597938144
